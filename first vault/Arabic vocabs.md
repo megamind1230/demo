@@ -1,7 +1,7 @@
 يجسد 
 سيء السمعة
 مفارقة الشدائد
+طالب في الكلية الحربية / العسكرية
 
-
-[[Enlgish vocabs]]
+[[English vocabs]]
 [[English sentences]]

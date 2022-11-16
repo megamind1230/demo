@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "079434f88f2c7c50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English vocabs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -31,6 +43,7 @@
       {
         "id": "855385104a4822dc",
         "type": "tabs",
+        "dimension": 64.9390243902439,
         "children": [
           {
             "id": "1ca64862f67ba42f",
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,6 +75,22 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "946f97dadbcb9e2b",
+        "type": "tabs",
+        "dimension": 35.0609756097561,
+        "children": [
+          {
+            "id": "74431f027cb11985",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
               "state": {}
             }
           }
@@ -179,10 +208,10 @@
   },
   "active": "3530316f8623886c",
   "lastOpenFiles": [
+    "English vocabs.md",
     "English sentences.md",
-    "Enlgish vocabs.md",
-    "step one.md",
     "Arabic vocabs.md",
+    "step one.md",
     "Recording 20221116122941.webm"
   ]
 }

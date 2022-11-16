@@ -1,7 +1,7 @@
 externalize
 infamous
 Adversity paradox
+cadet
 
-
-[[Arabic vocabs]]
 [[English sentences]]
+[[Arabic vocabs]]
