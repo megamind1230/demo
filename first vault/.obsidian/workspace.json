@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enlgish vocabs.md",
+                "file": "step one.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enlgish vocabs.md",
+                "file": "step one.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enlgish vocabs.md",
+                "file": "step one.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Enlgish vocabs.md",
+                "file": "step one.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enlgish vocabs.md"
+                "file": "step one.md"
               }
             }
           }
@@ -180,9 +180,9 @@
   "active": "3530316f8623886c",
   "lastOpenFiles": [
     "English sentences.md",
+    "Enlgish vocabs.md",
     "step one.md",
     "Arabic vocabs.md",
-    "Enlgish vocabs.md",
     "Recording 20221116122941.webm"
   ]
 }

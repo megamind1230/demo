@@ -1,4 +1,7 @@
 {
   "showLineNumber": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true
 }

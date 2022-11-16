@@ -1,3 +1,4 @@
+#here
 some plugins to use
 	-  Obsidian Mind Map
 	-  Obsidian MarkMind
@@ -5,12 +6,14 @@ some plugins to use
 1. this is a numbered list
 2. as you see
 - now is a bullet
-- dlfksj
-- sdkfjsl
-	- kjdflksd
-		- lsdjf
-		- 
+- gobbledygook
+- gobbledygook
+	- gobbledygook
+		- gobbledygook
+		- gobbledygook
 some shortcuts
-	- ctrl enter > open link in another tab
-	- alt enter > follow the link opening it in the same tab
-	- 
+	- ctrl enter > *open link in another tab*
+	- alt enter > *follow the link opening it in the same tab*
+starred notes
+	alt s
+	ctrl shift s
