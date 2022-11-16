@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "e8d75eac581c79c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "some unwanted note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "079434f88f2c7c50",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "some unwanted note.md",
+                "file": "step one.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "some unwanted note.md",
+                "file": "step one.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "some unwanted note.md",
+                "file": "step one.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "some unwanted note.md"
+                "file": "step one.md"
               }
             }
           }
@@ -218,8 +205,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e8d75eac581c79c2",
+  "active": "3530316f8623886c",
   "lastOpenFiles": [
+    "some unwanted note.md",
+    "Untitled.md",
     "step one.md",
     "English vocabs.md",
     "English sentences.md",
