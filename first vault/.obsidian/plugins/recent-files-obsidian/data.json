@@ -5,16 +5,16 @@
       "path": "step one.md"
     },
     {
-      "basename": "English vocabs",
-      "path": "English vocabs.md"
+      "basename": "Arabic vocabs",
+      "path": "Arabic vocabs.md"
     },
     {
       "basename": "English sentences",
       "path": "English sentences.md"
     },
     {
-      "basename": "Arabic vocabs",
-      "path": "Arabic vocabs.md"
+      "basename": "English vocabs",
+      "path": "English vocabs.md"
     }
   ],
   "omittedPaths": [],

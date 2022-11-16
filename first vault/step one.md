@@ -26,6 +26,8 @@ some
 		- periodic notes
 		- templates
 	- Kanban
+	- embed mentions
+	- 
 - recommendations
 	- book : how to take smart notes by sonke ahrens
 	- 
