@@ -8,21 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c295e520f0424382",
+            "id": "3530316f8623886c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English sentences.md",
+                "file": "Enlgish vocabs.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,16 +76,45 @@
     "type": "split",
     "children": [
       {
-        "id": "e34f53bd6f78d514",
+        "id": "d1b1d9fd66e5d988",
         "type": "tabs",
         "children": [
+          {
+            "id": "ae02bf28d32757a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Enlgish vocabs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca26f4e65876b821",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Enlgish vocabs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
           {
             "id": "ed56a2c1ca54fef0",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "English sentences.md",
+                "file": "Enlgish vocabs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,7 +127,7 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
@@ -111,13 +137,24 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7514342709698703,
+                  "scale": 0.7295249093711941,
                   "close": true
                 }
               }
             }
+          },
+          {
+            "id": "f313dd9a8fe823d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Enlgish vocabs.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "74f8074fb2ac5628",
@@ -140,12 +177,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c295e520f0424382",
+  "active": "3530316f8623886c",
   "lastOpenFiles": [
+    "English sentences.md",
+    "step one.md",
     "Arabic vocabs.md",
     "Enlgish vocabs.md",
-    "English sentences.md",
-    "first.md",
     "Recording 20221116122941.webm"
   ]
 }
