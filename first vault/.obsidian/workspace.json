@@ -8,18 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3530316f8623886c",
+            "id": "c295e520f0424382",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "first.md",
+                "file": "English sentences.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -69,45 +72,57 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 209
   },
   "right": {
     "id": "7f78fb0a22191559",
     "type": "split",
     "children": [
       {
-        "id": "d1b1d9fd66e5d988",
+        "id": "e34f53bd6f78d514",
         "type": "tabs",
         "children": [
           {
-            "id": "ae02bf28d32757a8",
+            "id": "ed56a2c1ca54fef0",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "localgraph",
               "state": {
-                "file": "first.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "English sentences.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7514342709698703,
+                  "close": true
+                }
               }
             }
-          },
-          {
-            "id": "ca26f4e65876b821",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "first.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
+          }
+        ]
+      },
+      {
+        "id": "74f8074fb2ac5628",
+        "type": "tabs",
+        "children": [
           {
             "id": "202c6d41509263f2",
             "type": "leaf",
@@ -118,27 +133,19 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "f313dd9a8fe823d4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "first.md"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "3530316f8623886c",
+  "active": "c295e520f0424382",
   "lastOpenFiles": [
-    "Recording 20221116122941.webm",
-    "first.md"
+    "Arabic vocabs.md",
+    "Enlgish vocabs.md",
+    "English sentences.md",
+    "first.md",
+    "Recording 20221116122941.webm"
   ]
 }
