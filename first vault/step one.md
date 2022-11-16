@@ -17,12 +17,15 @@ starred notes
 search > ctrl shift f
 to navigate >> ctrl -> / <- 
 to work with the git and repo > use the command palette
-some plugins to use
+some 
+- plugins to use
 	-  Obsidian Mind Map
 	-  Obsidian MarkMind
 	- recent files
 	- calendar #still
 		- periodic notes
 		- templates
+	- Kanban
+- recommendations
+	- book : how to take smart notes by sonke ahrens
 	- 
-
