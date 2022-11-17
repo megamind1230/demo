@@ -3,5 +3,6 @@
   "strictLineBreaks": false,
   "showFrontmatter": true,
   "spellcheck": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "tabSize": 4
 }

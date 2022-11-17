@@ -1,4 +1,4 @@
-#here
+
 - this is very weird **you know**
 1. this is a numbered list
 2. as you see
@@ -15,7 +15,7 @@ starred notes
 	alt s
 	ctrl shift s
 search > ctrl shift f
-to navigate >> ctrl -> / <- 
+to navigate >> alt shift right / left
 to work with the git and repo > use the command palette
 some 
 - plugins to use
@@ -26,9 +26,15 @@ some
 		- periodic notes
 		- templates
 	- Kanban
+	- data view
+	- check list
 	- embed mentions
-	- 
 - recommendations
-	- book : how to take smart notes by sonke ahrens
-	- 
+	- book : how to take smart notes by Sonke Ahrens
+- ![[copy search result.png]] #still 
+- open the quick switcher > ctrl q
+- ctrl g > graph view
+- outgoing links > from my note towards the others
 
+
+#here

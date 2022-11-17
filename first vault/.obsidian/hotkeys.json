@@ -46,7 +46,8 @@
   "app:go-back": [
     {
       "modifiers": [
-        "Mod"
+        "Alt",
+        "Shift"
       ],
       "key": "ArrowLeft"
     }
@@ -54,7 +55,8 @@
   "app:go-forward": [
     {
       "modifiers": [
-        "Mod"
+        "Alt",
+        "Shift"
       ],
       "key": "ArrowRight"
     }
@@ -75,6 +77,15 @@
         "Shift"
       ],
       "key": "ArrowUp"
+    }
+  ],
+  "editor:insert-embed": [],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
     }
   ]
 }

@@ -15,6 +15,10 @@
     {
       "basename": "English vocabs",
       "path": "English vocabs.md"
+    },
+    {
+      "basename": "copy search result",
+      "path": "copy search result.png"
     }
   ],
   "omittedPaths": [],
