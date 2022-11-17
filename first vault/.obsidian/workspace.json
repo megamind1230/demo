@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3530316f8623886c",
+            "id": "bdeb906a85e8ccba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "step one.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "079434f88f2c7c50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arabic vocabs.md",
+                "file": "1st step.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "step one.md",
+                "file": "1st step.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "step one.md",
+                "file": "1st step.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "step one.md",
+                "file": "1st step.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "step one.md"
+                "file": "1st step.md"
               }
             }
           }
@@ -205,15 +193,16 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3530316f8623886c",
+  "active": "bdeb906a85e8ccba",
   "lastOpenFiles": [
-    "Arabic vocabs.md",
-    "step one.md",
-    "English sentences.md",
+    "somenew.md",
+    "1st step.md",
     "English vocabs.md",
-    "copy search result.png",
-    "some unwanted note.md",
+    "English sentences.md",
+    "photos/copy search result.png",
+    "Arabic vocabs.md",
     "Untitled.md",
+    "some unwanted note.md",
     "Recording 20221116122941.webm"
   ]
 }

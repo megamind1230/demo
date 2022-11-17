@@ -4,5 +4,7 @@
   "showFrontmatter": true,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "tabSize": 4
+  "tabSize": 4,
+  "showUnsupportedFiles": true,
+  "promptDelete": true
 }
