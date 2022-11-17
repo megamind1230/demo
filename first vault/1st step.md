@@ -65,6 +65,7 @@ some
 	- find in all > ctrl shift f
 - recording > ctrl alt s / e
 - *insert template* > ctrl ; 
+- alt z / x > commit all changes then push
 
 to try
 
