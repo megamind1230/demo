@@ -31,3 +31,4 @@ some
 - recommendations
 	- book : how to take smart notes by sonke ahrens
 	- 
+
