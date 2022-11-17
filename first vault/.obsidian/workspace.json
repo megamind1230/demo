@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1st step.md",
+                "file": "obsidian 1st step.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1st step.md",
+                "file": "obsidian 1st step.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1st step.md",
+                "file": "obsidian 1st step.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1st step.md",
+                "file": "obsidian 1st step.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1st step.md"
+                "file": "obsidian 1st step.md"
               }
             }
           }
@@ -196,7 +196,7 @@
   "active": "bdeb906a85e8ccba",
   "lastOpenFiles": [
     "somenew.md",
-    "1st step.md",
+    "obsidian 1st step.md",
     "English vocabs.md",
     "English sentences.md",
     "photos/copy search result.png",
