@@ -67,6 +67,13 @@ some
 - *insert template* > ctrl ; 
 - alt z / x > commit all changes then push
 
-to try
+nested tags can be done #still/nested
+
 
 #here
+# hello
+
+## something
+### some other thing
+the usage of outline
+		![[outline usage.png]]
