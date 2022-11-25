@@ -77,3 +77,7 @@ nested tags can be done #still/nested
 ### some other thing
 the usage of outline
 		![[outline usage.png]]
+```text
+![[somelink]]  makes it and embed
+```
+ازاي تخلي [[الفنكش]] بتاعتك عامة لكل البرامج ؟

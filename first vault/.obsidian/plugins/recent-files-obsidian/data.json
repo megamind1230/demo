@@ -5,12 +5,16 @@
       "path": "obsidian 1st step.md"
     },
     {
-      "basename": "for update",
-      "path": "photos/for update.png"
+      "basename": "Arabic vocabs",
+      "path": "Arabic vocabs.md"
     },
     {
       "basename": "new one",
       "path": "new one.md"
+    },
+    {
+      "basename": "for update",
+      "path": "photos/for update.png"
     },
     {
       "basename": "outline usage",
@@ -31,10 +35,6 @@
     {
       "basename": "copy search result",
       "path": "photos/copy search result.png"
-    },
-    {
-      "basename": "Arabic vocabs",
-      "path": "Arabic vocabs.md"
     }
   ],
   "omittedPaths": [],
