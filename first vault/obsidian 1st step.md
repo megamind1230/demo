@@ -81,3 +81,5 @@ the usage of outline
 ![[somelink]]  makes it and embed
 ```
 ازاي تخلي [[الفنكش]] بتاعتك عامة لكل البرامج ؟
+
+
