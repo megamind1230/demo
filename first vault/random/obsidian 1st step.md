@@ -15,12 +15,12 @@ starred notes
 	alt s
 	ctrl shift s
 search > ctrl shift f
-to navigate >> alt shift right / left
+to navigate >>ctrl [ ]
 to work with the git and repo > use the command palette
 some 
 - plugins to use
 	-  Obsidian Mind Map
-	-  Obsidian MarkMind
+	-  Obsidian Mark Mind
 	- recent files
 	- calendar #still
 		- periodic notes

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "568d8900120d6e35",
+            "id": "ccee58d0999686cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian 1st step.md",
+                "file": "رحلة اليقين/رحلة اليقين 2 الفوائد الستة من أدلة وجود الله للموقن أصلا بوجوده.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "855385104a4822dc",
         "type": "tabs",
-        "dimension": 64.9390243902439,
+        "dimension": 52.06043956043956,
         "children": [
           {
             "id": "1ca64862f67ba42f",
@@ -71,7 +71,7 @@
       {
         "id": "946f97dadbcb9e2b",
         "type": "tabs",
-        "dimension": 35.0609756097561,
+        "dimension": 47.93956043956044,
         "children": [
           {
             "id": "74431f027cb11985",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian 1st step.md",
+                "file": "رحلة اليقين/رحلة اليقين 2 الفوائد الستة من أدلة وجود الله للموقن أصلا بوجوده.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian 1st step.md",
+                "file": "رحلة اليقين/رحلة اليقين 2 الفوائد الستة من أدلة وجود الله للموقن أصلا بوجوده.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "obsidian 1st step.md",
+                "file": "رحلة اليقين/رحلة اليقين 2 الفوائد الستة من أدلة وجود الله للموقن أصلا بوجوده.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +154,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.33161980713960076,
-                  "close": true
+                  "close": false
                 }
               }
             }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian 1st step.md"
+                "file": "رحلة اليقين/رحلة اليقين 2 الفوائد الستة من أدلة وجود الله للموقن أصلا بوجوده.md"
               }
             }
           }
@@ -199,17 +199,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "568d8900120d6e35",
+  "active": "ed56a2c1ca54fef0",
   "lastOpenFiles": [
-    "Arabic vocabs.md",
-    "new one.md",
-    "obsidian 1st step.md",
-    "photos/for update.png",
-    "photos/outline usage.png",
-    "photos/تأثير ال commit.png",
-    "somenew.md",
-    "English vocabs.md",
-    "English sentences.md",
-    "photos/copy search result.png"
+    "رحلة اليقين/رحلة اليقين 1 بناء الدعائم.md",
+    "رحلة اليقين/رحلة اليقين 2 الفوائد الستة من أدلة وجود الله للموقن أصلا بوجوده.md",
+    "random/Arabic vocabs.md",
+    "random/English sentences.md",
+    "random/English vocabs.md",
+    "random/new one.md",
+    "random/obsidian 1st step.md",
+    "رحلة اليقين/قول ابن تيمية فعامة الناس.png",
+    "رحلة اليقين/6 فوائد من أدلة وجود الله.png",
+    "photos/for update.png"
   ]
 }
