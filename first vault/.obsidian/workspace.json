@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "51bda29dd5024dac",
+        "id": "eb4465b8408a4e10",
         "type": "tabs",
         "children": [
           {
-            "id": "ccee58d0999686cf",
+            "id": "fb5ed30fb14a74fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "رحلة اليقين/رحلة اليقين 2 الفوائد الستة من أدلة وجود الله للموقن أصلا بوجوده.md",
+                "file": "ch8 db.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "رحلة اليقين/رحلة اليقين 2 الفوائد الستة من أدلة وجود الله للموقن أصلا بوجوده.md",
+                "file": "ch8 db.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "رحلة اليقين/رحلة اليقين 2 الفوائد الستة من أدلة وجود الله للموقن أصلا بوجوده.md",
+                "file": "ch8 db.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "رحلة اليقين/رحلة اليقين 2 الفوائد الستة من أدلة وجود الله للموقن أصلا بوجوده.md",
+                "file": "ch8 db.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,13 +148,13 @@
                   "textFadeMultiplier": -3,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
+                  "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.33161980713960076,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "رحلة اليقين/رحلة اليقين 2 الفوائد الستة من أدلة وجود الله للموقن أصلا بوجوده.md"
+                "file": "ch8 db.md"
               }
             }
           }
@@ -199,17 +199,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ed56a2c1ca54fef0",
+  "active": "fb5ed30fb14a74fb",
   "lastOpenFiles": [
-    "رحلة اليقين/رحلة اليقين 1 بناء الدعائم.md",
-    "رحلة اليقين/رحلة اليقين 2 الفوائد الستة من أدلة وجود الله للموقن أصلا بوجوده.md",
-    "random/Arabic vocabs.md",
-    "random/English sentences.md",
-    "random/English vocabs.md",
-    "random/new one.md",
+    "using asterisk.png",
+    "ch8 db.md",
+    "ترتيب تصاعدي.png",
+    "الجدول الناتج من اليونيون.png",
+    "جدولين بينهم تشابهات.png",
+    "رحلة اليقين/رحلة اليقين 3 الفطرة والكمبيوتر.md",
     "random/obsidian 1st step.md",
-    "رحلة اليقين/قول ابن تيمية فعامة الناس.png",
-    "رحلة اليقين/6 فوائد من أدلة وجود الله.png",
-    "photos/for update.png"
+    "رحلة اليقين/رحلة اليقين 2 الفوائد الستة من أدلة وجود الله للموقن أصلا بوجوده.md",
+    "رحلة اليقين/رحلة اليقين 1 بناء الدعائم.md",
+    "رحلة اليقين/قول ابن تيمية فعامة الناس.png"
   ]
 }

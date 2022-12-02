@@ -10,7 +10,7 @@
 		- gobbledygook
 some shortcuts
 	- ctrl enter > *open link in another tab*
-	- alt enter > *follow the link opening it in the same tab*إ
+	- alt enter > *follow the link opening it in the same tab*
 starred notes
 	alt s
 	ctrl shift s
@@ -19,6 +19,7 @@ to navigate >>ctrl [ ]
 to work with the git and repo > use the command palette
 some 
 - plugins to use
+	-  obsidian-enhancing-mindmap-plugin
 	-  Obsidian Mind Map
 	-  Obsidian Mark Mind
 	- recent files
@@ -70,7 +71,6 @@ some
 nested tags can be done #still/nested
 
 
-#here
 # hello
 
 ## something
@@ -82,4 +82,4 @@ the usage of outline
 ```
 ازاي تخلي [[الفنكش]] بتاعتك عامة لكل البرامج ؟
 
-
+alt some ascii number gives the corresponding char 
