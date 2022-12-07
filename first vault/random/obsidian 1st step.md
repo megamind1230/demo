@@ -83,3 +83,4 @@ the usage of outline
 ازاي تخلي [[الفنكش]] بتاعتك عامة لكل البرامج ؟
 
 alt some ascii number gives the corresponding char 
+![[Pasted image 20221207100621.png]]
