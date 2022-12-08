@@ -1,6 +1,170 @@
 {
   "recentFiles": [
     {
+      "basename": "12.3 FIBONACCI HEAPS",
+      "path": "Heaps chapter12/12.3 FIBONACCI HEAPS.md"
+    },
+    {
+      "basename": "Figure 12.33",
+      "path": "Heaps chapter12/Figure 12.33.md"
+    },
+    {
+      "basename": "Appendix",
+      "path": "Heaps chapter12/Appendix.md"
+    },
+    {
+      "basename": "Figure12.23",
+      "path": "Heaps chapter12/Figure12.23.md"
+    },
+    {
+      "basename": "Home page",
+      "path": "Heaps chapter12/Home page.md"
+    },
+    {
+      "basename": "points to remember",
+      "path": "Heaps chapter12/points to remember.md"
+    },
+    {
+      "basename": "12.4 COMPARISON OF BINARY, BINOMIAL, AND FIBONACCI HEAPS",
+      "path": "Heaps chapter12/12.4 COMPARISON OF BINARY, BINOMIAL, AND FIBONACCI HEAPS.md"
+    },
+    {
+      "basename": "12.2 BINOMIAL HEAPS",
+      "path": "Heaps chapter12/12.2 BINOMIAL HEAPS.md"
+    },
+    {
+      "basename": "12.1 BINARY HEAPS",
+      "path": "Heaps chapter12/12.1 BINARY HEAPS.md"
+    },
+    {
+      "basename": "Pasted image 20221208115824",
+      "path": "Heaps chapter12/photos_heap/Pasted image 20221208115824.png"
+    },
+    {
+      "basename": "Pasted image 20221208115358",
+      "path": "Heaps chapter12/photos_heap/Pasted image 20221208115358.png"
+    },
+    {
+      "basename": "Pasted image 20221208115253",
+      "path": "Heaps chapter12/photos_heap/Pasted image 20221208115253.png"
+    },
+    {
+      "basename": "Pasted image 20221208115031",
+      "path": "Heaps chapter12/photos_heap/Pasted image 20221208115031.png"
+    },
+    {
+      "basename": "Figure 12.31",
+      "path": "Heaps chapter12/Figure 12.31.md"
+    },
+    {
+      "basename": "Pasted image 20221208114808",
+      "path": "Heaps chapter12/photos_heap/Pasted image 20221208114808.png"
+    },
+    {
+      "basename": "Pasted image 20221208114632",
+      "path": "Heaps chapter12/photos_heap/Pasted image 20221208114632.png"
+    },
+    {
+      "basename": "Pasted image 20221208114139",
+      "path": "Heaps chapter12/photos_heap/Pasted image 20221208114139.png"
+    },
+    {
+      "basename": "Pasted image 20221208111737",
+      "path": "Heaps chapter12/photos_heap/Pasted image 20221208111737.png"
+    },
+    {
+      "basename": "Pasted image 20221208110937",
+      "path": "Heaps chapter12/photos_heap/Pasted image 20221208110937.png"
+    },
+    {
+      "basename": "12.5 APPLICATIONS OF HEAPS",
+      "path": "Heaps chapter12/12.5 APPLICATIONS OF HEAPS.md"
+    },
+    {
+      "basename": "Figure 12.39",
+      "path": "Heaps chapter12/Figure 12.39.md"
+    },
+    {
+      "basename": "Decreasing algo",
+      "path": "Heaps chapter12/Decreasing algo.md"
+    },
+    {
+      "basename": "Figure 12.32",
+      "path": "Heaps chapter12/Figure 12.32.md"
+    },
+    {
+      "basename": "Figure 12.30",
+      "path": "Heaps chapter12/Figure 12.30.md"
+    },
+    {
+      "basename": "Figure 12.28",
+      "path": "Heaps chapter12/Figure 12.28.md"
+    },
+    {
+      "basename": "12.3.2 intro",
+      "path": "Heaps chapter12/12.3.2 intro.md"
+    },
+    {
+      "basename": "Figure 12.24",
+      "path": "Heaps chapter12/Figure 12.24.md"
+    },
+    {
+      "basename": "Figure 12.21",
+      "path": "Heaps chapter12/Figure 12.21.md"
+    },
+    {
+      "basename": "Figure 12.20",
+      "path": "Heaps chapter12/Figure 12.20.md"
+    },
+    {
+      "basename": "Figure 12.17",
+      "path": "Heaps chapter12/Figure 12.17.md"
+    },
+    {
+      "basename": "Figure 12.15",
+      "path": "Heaps chapter12/Figure 12.15.md"
+    },
+    {
+      "basename": "Figure 12.10",
+      "path": "Heaps chapter12/Figure 12.10.md"
+    },
+    {
+      "basename": "Figure 12.7",
+      "path": "Heaps chapter12/Figure 12.7.md"
+    },
+    {
+      "basename": "Pasted image 20221208101132",
+      "path": "Heaps chapter12/photos_heap/Pasted image 20221208101132.png"
+    },
+    {
+      "basename": "Pasted image 20221208110258",
+      "path": "Heaps chapter12/photos_heap/Pasted image 20221208110258.png"
+    },
+    {
+      "basename": "Pasted image 20221208110542",
+      "path": "Heaps chapter12/photos_heap/Pasted image 20221208110542.png"
+    },
+    {
+      "basename": "Pasted image 20221208110106",
+      "path": "Heaps chapter12/photos_heap/Pasted image 20221208110106.png"
+    },
+    {
+      "basename": "Pasted image 20221208095045",
+      "path": "Heaps chapter12/photos_heap/Pasted image 20221208095045.png"
+    },
+    {
+      "basename": "Pasted image 20221208104259",
+      "path": "Heaps chapter12/photos_heap/Pasted image 20221208104259.png"
+    },
+    {
+      "basename": "جدولين بينهم تشابهات",
+      "path": "random/جدولين بينهم تشابهات.png"
+    },
+    {
+      "basename": "Pasted image 20221207100621",
+      "path": "random/Pasted image 20221207100621.png"
+    },
+    {
       "basename": "obsidian 1st step",
       "path": "random/obsidian 1st step.md"
     },
@@ -10,35 +174,23 @@
     },
     {
       "basename": "ch8 db",
-      "path": "ch8 db.md"
-    },
-    {
-      "basename": "Untitled.png",
-      "path": "ch8 db f7d33d2b1cfd4b41a3a72e847790c081/Untitled.png.md"
-    },
-    {
-      "basename": "Untitled 2.png",
-      "path": "ch8 db f7d33d2b1cfd4b41a3a72e847790c081/Untitled 2.png.md"
+      "path": "random/ch8 db.md"
     },
     {
       "basename": "رحلة اليقين 4 هل نحن مفطورون على عبادة الله؟",
       "path": "رحلة اليقين/رحلة اليقين 4 هل نحن مفطورون على عبادة الله؟.md"
     },
     {
-      "basename": "جدولين بينهم تشابهات",
-      "path": "جدولين بينهم تشابهات.png"
-    },
-    {
       "basename": "الجدول الناتج من اليونيون",
-      "path": "الجدول الناتج من اليونيون.png"
+      "path": "random/الجدول الناتج من اليونيون.png"
     },
     {
       "basename": "ترتيب تصاعدي",
-      "path": "ترتيب تصاعدي.png"
+      "path": "random/ترتيب تصاعدي.png"
     },
     {
       "basename": "using asterisk",
-      "path": "using asterisk.png"
+      "path": "random/using asterisk.png"
     },
     {
       "basename": "رحلة اليقين 2 الفوائد الستة من أدلة وجود الله للموقن أصلا بوجوده",
@@ -47,46 +199,6 @@
     {
       "basename": "رحلة اليقين 1 بناء الدعائم",
       "path": "رحلة اليقين/رحلة اليقين 1 بناء الدعائم.md"
-    },
-    {
-      "basename": "قول ابن تيمية فعامة الناس",
-      "path": "رحلة اليقين/قول ابن تيمية فعامة الناس.png"
-    },
-    {
-      "basename": "6 فوائد من أدلة وجود الله",
-      "path": "رحلة اليقين/6 فوائد من أدلة وجود الله.png"
-    },
-    {
-      "basename": "Arabic vocabs",
-      "path": "random/Arabic vocabs.md"
-    },
-    {
-      "basename": "English sentences",
-      "path": "random/English sentences.md"
-    },
-    {
-      "basename": "English vocabs",
-      "path": "random/English vocabs.md"
-    },
-    {
-      "basename": "new one",
-      "path": "random/new one.md"
-    },
-    {
-      "basename": "for update",
-      "path": "photos/for update.png"
-    },
-    {
-      "basename": "outline usage",
-      "path": "photos/outline usage.png"
-    },
-    {
-      "basename": "تأثير ال commit",
-      "path": "photos/تأثير ال commit.png"
-    },
-    {
-      "basename": "copy search result",
-      "path": "photos/copy search result.png"
     }
   ],
   "omittedPaths": [],
