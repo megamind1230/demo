@@ -1,7 +1,7 @@
 ![[Pasted image 20221208114632.png]]
-### [Home page](obsidian://open?vault=first%20vault&file=Heaps%20chapter12%2FHome%20page)
+### [[Home page]]
 
 
-### [Appendix page](obsidian://open?vault=first%20vault&file=Heaps%20chapter12%2FAppendix)
+### [[Appendix]]
 
-[continue reading](obsidian://open?vault=first%20vault&file=Heaps%20chapter12%2F12.3%20FIBONACCI%20HEAPS)
+### [[12.3 FIBONACCI HEAPS]]

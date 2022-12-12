@@ -7,5 +7,6 @@
   "tabSize": 4,
   "showUnsupportedFiles": true,
   "promptDelete": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "attachmentFolderPath": "Heaps chapter12"
 }

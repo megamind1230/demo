@@ -1,3 +1,5 @@
+# [[Quick Guide]]
+
 # [[12.1 BINARY HEAPS]]
 
 # [[12.2 BINOMIAL HEAPS]]
@@ -11,4 +13,5 @@
 # [[points to remember]]
 
 # [[Appendix]]
+
 

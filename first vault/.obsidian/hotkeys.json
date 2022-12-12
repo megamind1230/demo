@@ -216,6 +216,7 @@
   "editor:unfold-all": [
     {
       "modifiers": [
+        "Alt",
         "Shift"
       ],
       "key": "T"

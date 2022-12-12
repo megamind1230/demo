@@ -1,8 +1,8 @@
 ![[Pasted image 20221208113757.png]]
 
-### [Home page](obsidian://open?vault=first%20vault&file=Heaps%20chapter12%2FHome%20page)
+### [[Home page]]
 
 
-### [Appendix page](obsidian://open?vault=first%20vault&file=Heaps%20chapter12%2FAppendix)
+### [[Appendix]]
 
-[continue reading](obsidian://open?vault=first%20vault&file=Heaps%20chapter12%2F12.2%20BINOMIAL%20HEAPS)
+### [[12.2 BINOMIAL HEAPS]]
