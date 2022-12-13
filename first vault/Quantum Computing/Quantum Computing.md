@@ -19,7 +19,7 @@ If a supercomputer gets stumped(يتعثر), that's probably because the big cla
 
 Mercedes-Benz is using quantum computers to design better batteries![[Pasted image 20221213162215.png | 180]]
 ExxonMobil uses quantum computers to ship cleaner fuels![[Pasted image 20221213162807.png| 280]]
-CERN, the European laboratory for particle physics in Switzerland, uses quantum computers to understand what sews the universe together along with so researches done on the Large Hadron Collider ( مصادم الذرات الضخم هادرون )![[Pasted image 20221213163309.png]]
+CERN, the European laboratory for particle physics in Switzerland, uses quantum computers to understand what sews the universe together along with so researches done on the Large Hadron Collider ( مصادم الذرات الضخم هادرون )[1]![[Pasted image 20221213163309.png]]
 
 
 ---
@@ -48,26 +48,40 @@ Classical computers can not create these computational spaces, so they can not f
 
 Quantum computers are elegant(رائعة) machines, smaller and ==requiring less energy than supercomputers==. An IBM Quantum processor is a wafer ==not much bigger== than the one found in a laptop. And a quantum hardware system is about the size of a car, made up mostly of ==cooling systems== to keep the superconducting processor at its ==ultra-cold operational temperature==.
 
-A classical processor uses bits to perform its operations. A quantum computer uses qubits, pronounced as (q-bits), to run multidimensional quantum algorithms.
+A classical processor uses bits to perform its operations. A quantum computer uses qubits, pronounced as (q-bits), to run ==multidimensional== quantum algorithms.
 
-**Superfluids**  
-Your desktop computer likely uses a fan to get cold enough to work. Our quantum processors need to be very cold – about a hundredth of a degree above absolute zero. To achieve this, we use super-cooled superfluids to create superconductors.
+### **Superfluids**  
+Your desktop computer likely uses a fan to get cold enough to work. Our quantum processors need to be very cold - about ==−273.15 degrees Celsius== which is the Absolute zero temperature technically known as zero kelvins. To achieve this, we use super-cooled superfluids to create superconductors, or to cool them so-to-say.
 
-**Superconductors**  
-At those ultra-low temperatures certain materials in our processors exhibit another important quantum mechanical effect: electrons move through them without resistance. This makes them "superconductors." 
+### **Superconductors**  
+At those ultra-low temperatures certain materials in our processors exhibit another important quantum mechanical effect: electrons move through them ==without resistance==. This makes them "superconductors." 
 
-When electrons pass through superconductors they match up, forming "Cooper pairs." These pairs can carry a charge across barriers, or insulators, through a process known as quantum tunneling. Two superconductors placed on either side of an insulator form a Josephson junction
+When electrons pass through superconductors they match up, forming "Cooper pairs." These pairs can carry a charge across barriers, or insulators(عوازل), through a process known as ==quantum tunneling==. Two superconductors placed on either side of an insulator form a Josephson junction.
 
-**Control**  
+### **Control**  
 Our quantum computers use Josephson junctions as superconducting qubits. By firing microwave photons at these qubits, we can control their behavior and get them to hold, change, and read out individual units of quantum information.
 
-**Superposition**  
-A qubit itself isn't very useful. But it can perform an important trick: placing the quantum information it holds into a state of superposition, which represents a combination of all possible configurations of the qubit. Groups of qubits in superposition can create complex, multidimensional computational spaces. Complex problems can be represented in new ways in these spaces.
+### **Superposition**  
+==A qubit itself isn't very useful. But== it can perform an important trick: placing the quantum information it holds into a state of superposition, which represents a combination of all possible configurations of the qubit. Groups of qubits in superposition can create complex, multidimensional computational spaces. Complex problems can be represented in new ways in these spaces.
 
-**Entanglement**  
-Entanglement is a quantum mechanical effect that correlates the behavior of two separate things. When two qubits are entangled, changes to one qubit directly impact the other. Quantum algorithms leverage those relationships to find solutions to complex problems
+### **Entanglement**  
+Entanglement(التشابك/التعقد) is a quantum mechanical effect that ==correlates== the behavior of two separate things. ==When two qubits are entangled, changes to one qubit directly impact the other==. Quantum algorithms leverage those relationships to find solutions to complex problems
 
+---
 
+# Making quantum computers useful
 
+IBM Quantum leads the world in building quantum hardware. Our roadmap`[2]` is a clear, detailed plan to scale quantum processors, overcome the scaling problem, and build the hardware necessary for quantum advantage.
 
+But quantum advantage will not be achieved with hardware alone. IBM has also spent years advancing the software that will be necessary to do useful work using quantum computers. We developed the Qiskit quantum SDK. It is open-source, python-based, and by far the most widely-used quantum SDK in the world. We also developed Qiskit Runtime, the most powerful quantum programming model in the world. (Learn more about both Qiskit and Qiskit, Runtime, and how to get started, in the next section.)
+
+Achieving quantum advantage will require new methods of suppressing errors, increasing speed, and orchestrating quantum and classical resources. The foundations of that work are being laid today in Qiskit Runtime.
+
+---
+
+## **References**
+[1] 
+![[Pasted image 20221213175527.png| 150]]
+[2]
+![[Pasted image 20221213175650.png|150]]
 #here 
