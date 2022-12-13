@@ -16,6 +16,8 @@ If a supercomputer gets stumped(يتعثر), that's probably because the big cla
 # Where are quantum computers used?
 
 Mercedes-Benz is using quantum computers to design better batteries![[Pasted image 20221213162215.png | 180]]
-ExxonMobil uses quantum computers to ship cleaner fuels![[Pasted image 20221213162807.png| 200]]
-
+ExxonMobil uses quantum computers to ship cleaner fuels![[Pasted image 20221213162807.png| 280]]
 CERN, the European laboratory for particle physics in Switzerland, uses quantum computers to understand what sews the universe together along with so researches done on the Large Hadron Collider ( مصادم الذرات الضخم هادرون )![[Pasted image 20221213163309.png]]
+
+
+---
