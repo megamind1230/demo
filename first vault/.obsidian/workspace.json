@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "e4f950cbf5e61dec",
+        "id": "dcd68c2ee083da1e",
         "type": "tabs",
         "children": [
           {
-            "id": "576a57f91f9cdb57",
+            "id": "e9fcddf670517d5d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/أحكام تفخيم وترقيق الراء.md"
+              }
+            }
+          },
+          {
+            "id": "610449572a63c3d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Voldemort/vim/vim comfig, shrotcuts & keybindings.md",
-                "mode": "preview",
+                "file": "Quantum Computing/Quantum Computing.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +42,7 @@
       {
         "id": "855385104a4822dc",
         "type": "tabs",
-        "dimension": 67.0510708401977,
+        "dimension": 56.59340659340659,
         "children": [
           {
             "id": "1ca64862f67ba42f",
@@ -71,7 +82,7 @@
       {
         "id": "946f97dadbcb9e2b",
         "type": "tabs",
-        "dimension": 32.948929159802304,
+        "dimension": 43.40659340659341,
         "children": [
           {
             "id": "74431f027cb11985",
@@ -101,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Voldemort/vim/vim comfig, shrotcuts & keybindings.md",
+                "file": "Quantum Computing/Quantum Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Voldemort/vim/vim comfig, shrotcuts & keybindings.md",
+                "file": "Quantum Computing/Quantum Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Voldemort/vim/vim comfig, shrotcuts & keybindings.md",
+                "file": "Quantum Computing/Quantum Computing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Voldemort/vim/vim comfig, shrotcuts & keybindings.md"
+                "file": "Quantum Computing/Quantum Computing.md"
               }
             }
           }
@@ -197,19 +208,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "576a57f91f9cdb57",
+  "active": "610449572a63c3d6",
   "lastOpenFiles": [
-    "Voldemort/Complete Ethical Hacking Bootcamp 2021 Zero to Mastery/2. Setting Up Our Hacking Lab/Untitled.md",
-    "Voldemort/vim/vim comfig, shrotcuts & keybindings.md",
-    "Voldemort/Complete Ethical Hacking Bootcamp 2021 Zero to Mastery/1. Introduction/Untitled.md",
-    "Voldemort/Complete Ethical Hacking Bootcamp 2021 Zero to Mastery/1. Introduction/the course roadmap.md",
-    "Voldemort/Complete Ethical Hacking Bootcamp 2021 Zero to Mastery/Untitled.md",
-    "Voldemort/Kali - ‪CyberTraining365 Kali 101‬/Untitled.md",
-    "Voldemort/Untitled.md",
     "Excalidraw/أحكام تفخيم وترقيق الراء.md",
-    "Heaps chapter12/12.1 BINARY HEAPS.md",
-    "Excalidraw/Drawing 2022-12-10 17.23.09.excalidraw.md"
+    "Voldemort/os sections (linux commands)/12- Man Pages.md",
+    "Voldemort/os sections (linux commands)/13→15- User and Group Management.md",
+    "Voldemort/os sections (linux commands)/9,10- Working with file contents part 1.md",
+    "Pasted image 20221208175241.png",
+    "Pasted image 20221208175221.png",
+    "Voldemort/os sections (linux commands)/6,7- Working with Files part 1.md",
+    "Voldemort/os sections (linux commands)/4- Working with Directories part 3.md",
+    "Voldemort/os sections (linux commands)/Working with Directories part 1,2.md",
+    "Voldemort/os sections (linux commands)/DOS commands.md"
   ]
 }

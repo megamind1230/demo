@@ -1,0 +1,17 @@
+- pwd
+	- working directory
+	- `~` home dir symbol
+	- Cap D required![[Pasted image 20221213114735.png]]
+-  cd
+	- cd / is to go to root
+	- cd ~ go to home dir
+	- cd - go to the previously used dir (not on Windows)
+	- cd .. go back one step
+- ls list some of the contents of a dir
+	- ls -a hidden are shown also
+	- ls -l for long shows what’s not hidden .. with some more details{ these details are intelligible for an expert }
+	- ls -hl human-readable ling .. like -l .. but intelligible for almost everyone .. same as -lh
+	- can list anything form anywhere
+		- ![[Pasted image 20221213114948.png]]
+	- can list more than a dir
+		- ![[Pasted image 20221213115008.png]]

@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Quantum Computing",
+      "path": "Quantum Computing/Quantum Computing.md"
+    },
+    {
+      "basename": "أحكام تفخيم وترقيق الراء",
+      "path": "Excalidraw/أحكام تفخيم وترقيق الراء.md"
+    },
+    {
+      "basename": "12- Man Pages",
+      "path": "Voldemort/os sections (linux commands)/12- Man Pages.md"
+    },
+    {
+      "basename": "13→15- User and Group Management",
+      "path": "Voldemort/os sections (linux commands)/13→15- User and Group Management.md"
+    },
+    {
+      "basename": "9,10- Working with file contents part 1",
+      "path": "Voldemort/os sections (linux commands)/9,10- Working with file contents part 1.md"
+    },
+    {
+      "basename": "6,7- Working with Files part 1",
+      "path": "Voldemort/os sections (linux commands)/6,7- Working with Files part 1.md"
+    },
+    {
+      "basename": "4- Working with Directories part 3",
+      "path": "Voldemort/os sections (linux commands)/4- Working with Directories part 3.md"
+    },
+    {
+      "basename": "Working with Directories part 1,2",
+      "path": "Voldemort/os sections (linux commands)/Working with Directories part 1,2.md"
+    },
+    {
+      "basename": "DOS commands",
+      "path": "Voldemort/os sections (linux commands)/DOS commands.md"
+    },
+    {
       "basename": "vim comfig, shrotcuts & keybindings",
       "path": "Voldemort/vim/vim comfig, shrotcuts & keybindings.md"
     },
@@ -15,10 +51,6 @@
     {
       "basename": "Untitled",
       "path": "Voldemort/Kali - ‪CyberTraining365 Kali 101‬/Untitled.md"
-    },
-    {
-      "basename": "أحكام تفخيم وترقيق الراء",
-      "path": "Excalidraw/أحكام تفخيم وترقيق الراء.md"
     },
     {
       "basename": "12.1 BINARY HEAPS",
@@ -163,42 +195,6 @@
     {
       "basename": "Pasted image 20221208111737",
       "path": "Heaps chapter12/photos_heap/Pasted image 20221208111737.png"
-    },
-    {
-      "basename": "Pasted image 20221208110937",
-      "path": "Heaps chapter12/photos_heap/Pasted image 20221208110937.png"
-    },
-    {
-      "basename": "Pasted image 20221208101132",
-      "path": "Heaps chapter12/photos_heap/Pasted image 20221208101132.png"
-    },
-    {
-      "basename": "Pasted image 20221208110258",
-      "path": "Heaps chapter12/photos_heap/Pasted image 20221208110258.png"
-    },
-    {
-      "basename": "Pasted image 20221208110542",
-      "path": "Heaps chapter12/photos_heap/Pasted image 20221208110542.png"
-    },
-    {
-      "basename": "Pasted image 20221208110106",
-      "path": "Heaps chapter12/photos_heap/Pasted image 20221208110106.png"
-    },
-    {
-      "basename": "Pasted image 20221208095045",
-      "path": "Heaps chapter12/photos_heap/Pasted image 20221208095045.png"
-    },
-    {
-      "basename": "Pasted image 20221208104259",
-      "path": "Heaps chapter12/photos_heap/Pasted image 20221208104259.png"
-    },
-    {
-      "basename": "جدولين بينهم تشابهات",
-      "path": "random/جدولين بينهم تشابهات.png"
-    },
-    {
-      "basename": "Pasted image 20221207100621",
-      "path": "random/Pasted image 20221207100621.png"
     }
   ],
   "omittedPaths": [],

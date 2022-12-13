@@ -3,9 +3,8 @@
   "better-word-count",
   "recent-files-obsidian",
   "obsidian-image-toolkit",
-  "obsidian-rtl",
-  "dynamic-rtl",
   "plugins-galore",
   "obsidian-excalidraw-plugin",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "obsidian-rtl"
 ]

@@ -1,0 +1,14 @@
+- mkdir
+	- making dirs on root is denied
+	- make a dir inside another dir .. in the current place I’m in
+		- ![[Pasted image 20221213115119.png]]
+	- make a dir inside another dir .. while I’m in a way far place
+		- you must use a path
+			- ![[Pasted image 20221213115148.png]]
+	- to make a hierarchy at once use -p
+		- ![[Pasted image 20221213115225.png]]
+- rmdir
+	- rmdir -p
+		- ![[Pasted image 20221213115314.png]]
+- can do more than one command at a line using ;
+	- ![[Pasted image 20221213115349.png]]
