@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "vim comfig, shrotcuts & keybindings",
+      "path": "Voldemort/vim/vim comfig, shrotcuts & keybindings.md"
+    },
+    {
       "basename": "Untitled",
-      "path": "Voldemort/Complete Ethical Hacking Bootcamp 2021 Zero to Mastery/intro/Untitled.md"
+      "path": "Voldemort/Complete Ethical Hacking Bootcamp 2021 Zero to Mastery/2. Setting Up Our Hacking Lab/Untitled.md"
     },
     {
       "basename": "the course roadmap",
-      "path": "Voldemort/Complete Ethical Hacking Bootcamp 2021 Zero to Mastery/intro/the course roadmap.md"
+      "path": "Voldemort/Complete Ethical Hacking Bootcamp 2021 Zero to Mastery/1. Introduction/the course roadmap.md"
     },
     {
       "basename": "Untitled",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20221207100621",
       "path": "random/Pasted image 20221207100621.png"
-    },
-    {
-      "basename": "obsidian 1st step",
-      "path": "random/obsidian 1st step.md"
     }
   ],
   "omittedPaths": [],

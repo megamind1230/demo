@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eae050e9cfc13008",
+            "id": "576a57f91f9cdb57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Voldemort/Complete Ethical Hacking Bootcamp 2021 Zero to Mastery/intro/Untitled.md",
-                "mode": "source",
+                "file": "Voldemort/vim/vim comfig, shrotcuts & keybindings.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Voldemort/Complete Ethical Hacking Bootcamp 2021 Zero to Mastery/intro/Untitled.md",
+                "file": "Voldemort/vim/vim comfig, shrotcuts & keybindings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Voldemort/Complete Ethical Hacking Bootcamp 2021 Zero to Mastery/intro/Untitled.md",
+                "file": "Voldemort/vim/vim comfig, shrotcuts & keybindings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Voldemort/Complete Ethical Hacking Bootcamp 2021 Zero to Mastery/intro/Untitled.md",
+                "file": "Voldemort/vim/vim comfig, shrotcuts & keybindings.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Voldemort/Complete Ethical Hacking Bootcamp 2021 Zero to Mastery/intro/Untitled.md"
+                "file": "Voldemort/vim/vim comfig, shrotcuts & keybindings.md"
               }
             }
           }
@@ -199,17 +199,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "eae050e9cfc13008",
+  "active": "576a57f91f9cdb57",
   "lastOpenFiles": [
-    "Voldemort/Complete Ethical Hacking Bootcamp 2021 Zero to Mastery/intro/the course roadmap.md",
-    "Voldemort/Complete Ethical Hacking Bootcamp 2021 Zero to Mastery/intro/Untitled.md",
+    "Voldemort/Complete Ethical Hacking Bootcamp 2021 Zero to Mastery/2. Setting Up Our Hacking Lab/Untitled.md",
+    "Voldemort/vim/vim comfig, shrotcuts & keybindings.md",
+    "Voldemort/Complete Ethical Hacking Bootcamp 2021 Zero to Mastery/1. Introduction/Untitled.md",
+    "Voldemort/Complete Ethical Hacking Bootcamp 2021 Zero to Mastery/1. Introduction/the course roadmap.md",
     "Voldemort/Complete Ethical Hacking Bootcamp 2021 Zero to Mastery/Untitled.md",
     "Voldemort/Kali - ‪CyberTraining365 Kali 101‬/Untitled.md",
     "Voldemort/Untitled.md",
     "Excalidraw/أحكام تفخيم وترقيق الراء.md",
     "Heaps chapter12/12.1 BINARY HEAPS.md",
-    "Excalidraw/Drawing 2022-12-10 17.23.09.excalidraw.md",
-    "Excalidraw/Drawing 2022-12-10 17.23.10.excalidraw.md",
-    "Heaps chapter12/Appendix.md"
+    "Excalidraw/Drawing 2022-12-10 17.23.09.excalidraw.md"
   ]
 }
