@@ -48,7 +48,7 @@ Classical computers can not create these computational spaces, so they can not f
 
 Quantum computers are elegant(رائعة) machines, smaller and ==requiring less energy than supercomputers==. An IBM Quantum processor is a wafer ==not much bigger== than the one found in a laptop. And a quantum hardware system is about the size of a car, made up mostly of ==cooling systems== to keep the superconducting processor at its ==ultra-cold operational temperature==.
 
-A classical processor uses bits to perform its operations. A quantum computer uses qubits (CUE-bits) to run multidimensional quantum algorithms.
+A classical processor uses bits to perform its operations. A quantum computer uses qubits, pronounced as (q-bits), to run multidimensional quantum algorithms.
 
 **Superfluids**  
 Your desktop computer likely uses a fan to get cold enough to work. Our quantum processors need to be very cold – about a hundredth of a degree above absolute zero. To achieve this, we use super-cooled superfluids to create superconductors.
