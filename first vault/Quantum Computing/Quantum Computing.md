@@ -19,7 +19,7 @@ If a supercomputer gets stumped(يتعثر), that's probably because the big cla
 
 Mercedes-Benz is using quantum computers to design better batteries![[Pasted image 20221213162215.png | 180]]
 ExxonMobil uses quantum computers to ship cleaner fuels![[Pasted image 20221213162807.png| 280]]
-CERN, the European laboratory for particle physics in Switzerland, uses quantum computers to understand what sews the universe together along with so researches done on the Large Hadron Collider ( مصادم الذرات الضخم هادرون )[1]![[Pasted image 20221213163309.png]]
+CERN, the European laboratory for particle physics in Switzerland, uses quantum computers to understand what sews the universe together along with so researches done on the Large Hadron Collider ( مصادم الذرات الضخم هادرون )`[1]`![[Pasted image 20221213163309.png]]
 
 
 ---
@@ -67,21 +67,43 @@ Our quantum computers use Josephson junctions as superconducting qubits. By firi
 ### **Entanglement**  
 Entanglement(التشابك/التعقد) is a quantum mechanical effect that ==correlates== the behavior of two separate things. ==When two qubits are entangled, changes to one qubit directly impact the other==. Quantum algorithms leverage those relationships to find solutions to complex problems
 
+( For more about Superposition & Entanglement check the Appendix at the end of the report )
+
 ---
 
 # Making quantum computers useful
 
 IBM Quantum leads the world in building quantum hardware. Our roadmap`[2]` is a clear, detailed plan to scale quantum processors, overcome the scaling problem, and build the hardware necessary for quantum advantage.
 
-But quantum advantage will not be achieved with hardware alone. IBM has also spent years advancing the software that will be necessary to do useful work using quantum computers. We developed the Qiskit quantum SDK. It is open-source, python-based, and by far the most widely-used quantum SDK in the world. We also developed Qiskit Runtime, the most powerful quantum programming model in the world. (Learn more about both Qiskit and Qiskit, Runtime, and how to get started, in the next section.)
+But quantum advantages will not be achieved with hardware alone. IBM has also spent years advancing the software that will be necessary to do useful work using quantum computers. We developed the ==Qiskit quantum SDK==. It is open-source, python-based, and by far the most widely-used quantum SDK in the world. We also developed ==Qiskit Runtime==, the most powerful quantum programming model in the world. 
 
-Achieving quantum advantage will require new methods of suppressing errors, increasing speed, and orchestrating quantum and classical resources. The foundations of that work are being laid today in Qiskit Runtime.
+(Learn more about both Qiskit and Qiskit Runtime from the Appendix at the end of the report)
+
+Achieving quantum advantage will require new methods of suppressing(تقليل) errors, increasing speed, and orchestrating quantum and classical resources. The foundations of that work are being laid today in Qiskit Runtime and such software.
 
 ---
 
 ## **References**
-[1] 
+`[1]` 
 ![[Pasted image 20221213175527.png| 150]]
-[2]
+`[2]`
 ![[Pasted image 20221213175650.png|150]]
+
+---
+## **Appendix**
+
+`Qiskit Runtime`
+![[Pasted image 20221213180840.png|150]]
+
+`Qiskit`
+![[Pasted image 20221213181135.png|150]]
+
+`الدحيح | الكوانتم كمبيوتر`
+![[Pasted image 20221213181606.png|150]]
+
+`Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty`
+![[Pasted image 20221213181955.png|150]]
+
+
+
 #here 
