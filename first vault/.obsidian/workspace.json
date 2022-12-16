@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dcd68c2ee083da1e",
+        "id": "d0c57096f48069fc",
         "type": "tabs",
         "children": [
           {
-            "id": "610449572a63c3d6",
+            "id": "949a5fdae02d39c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantum Computing/Quantum Computing.md",
+                "file": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/8.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#مصحف_1",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum Computing/Quantum Computing.md",
+                "file": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantum Computing/Quantum Computing.md",
+                "file": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Quantum Computing/Quantum Computing.md",
+                "file": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/8.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantum Computing/Quantum Computing.md"
+                "file": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/8.md"
               }
             }
           }
@@ -200,17 +200,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "610449572a63c3d6",
+  "active": "949a5fdae02d39c0",
   "lastOpenFiles": [
-    "Excalidraw/أحكام تفخيم وترقيق الراء.md",
-    "Quantum Computing/Quantum Computing.md",
-    "Voldemort/os sections (linux commands)/12- Man Pages.md",
-    "Voldemort/os sections (linux commands)/13→15- User and Group Management.md",
-    "Voldemort/os sections (linux commands)/9,10- Working with file contents part 1.md",
-    "Pasted image 20221208175241.png",
-    "Pasted image 20221208175221.png",
-    "Voldemort/os sections (linux commands)/6,7- Working with Files part 1.md",
-    "Voldemort/os sections (linux commands)/4- Working with Directories part 3.md",
-    "Voldemort/os sections (linux commands)/Working with Directories part 1,2.md"
+    "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/7.md",
+    "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/6.md",
+    "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/5.md",
+    "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/4.md",
+    "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/3.md",
+    "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/landing.md",
+    "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/2.md",
+    "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/1.md",
+    "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/10.md",
+    "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/9.md"
   ]
 }

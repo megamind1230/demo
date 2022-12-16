@@ -1,6 +1,102 @@
 {
   "recentFiles": [
     {
+      "basename": "8",
+      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/8.md"
+    },
+    {
+      "basename": "7",
+      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/7.md"
+    },
+    {
+      "basename": "6",
+      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/6.md"
+    },
+    {
+      "basename": "5",
+      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/5.md"
+    },
+    {
+      "basename": "4",
+      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/4.md"
+    },
+    {
+      "basename": "3",
+      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/3.md"
+    },
+    {
+      "basename": "landing",
+      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/landing.md"
+    },
+    {
+      "basename": "2",
+      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/2.md"
+    },
+    {
+      "basename": "1",
+      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/1.md"
+    },
+    {
+      "basename": "10",
+      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/10.md"
+    },
+    {
+      "basename": "9",
+      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/9.md"
+    },
+    {
+      "basename": "المصادر",
+      "path": "assembly language/المصادر.md"
+    },
+    {
+      "basename": "Home page",
+      "path": "Heaps chapter12/Home page.md"
+    },
+    {
+      "basename": "Quick Guide",
+      "path": "Heaps chapter12/Quick Guide.md"
+    },
+    {
+      "basename": "Pasted image 20221215092629",
+      "path": "Heaps chapter12/Pasted image 20221215092629.png"
+    },
+    {
+      "basename": "Q&A",
+      "path": "Q&A.md"
+    },
+    {
+      "basename": "points to remember",
+      "path": "Heaps chapter12/points to remember.md"
+    },
+    {
+      "basename": "12.2 BINOMIAL HEAPS",
+      "path": "Heaps chapter12/12.2 BINOMIAL HEAPS.md"
+    },
+    {
+      "basename": "12.3 FIBONACCI HEAPS",
+      "path": "Heaps chapter12/12.3 FIBONACCI HEAPS.md"
+    },
+    {
+      "basename": "Figure 12.17",
+      "path": "Heaps chapter12/Figure 12.17.md"
+    },
+    {
+      "basename": "12.1 BINARY HEAPS",
+      "path": "Heaps chapter12/12.1 BINARY HEAPS.md"
+    },
+    {
+      "basename": "12.5 APPLICATIONS OF HEAPS",
+      "path": "Heaps chapter12/12.5 APPLICATIONS OF HEAPS.md"
+    },
+    {
+      "basename": "Figure 12.20",
+      "path": "Heaps chapter12/Figure 12.20.md"
+    },
+    {
+      "basename": "البقرة",
+      "path": "قرآن/البقرة.md"
+    },
+    {
       "basename": "Quantum Computing",
       "path": "Quantum Computing/Quantum Computing.md"
     },
@@ -53,10 +149,6 @@
       "path": "Voldemort/Kali - ‪CyberTraining365 Kali 101‬/Untitled.md"
     },
     {
-      "basename": "12.1 BINARY HEAPS",
-      "path": "Heaps chapter12/12.1 BINARY HEAPS.md"
-    },
-    {
       "basename": "Appendix",
       "path": "Heaps chapter12/Appendix.md"
     },
@@ -105,96 +197,8 @@
       "path": "Heaps chapter12/Figure 12.21.md"
     },
     {
-      "basename": "Figure 12.20",
-      "path": "Heaps chapter12/Figure 12.20.md"
-    },
-    {
-      "basename": "Figure 12.17",
-      "path": "Heaps chapter12/Figure 12.17.md"
-    },
-    {
       "basename": "Figure 12.15",
       "path": "Heaps chapter12/Figure 12.15.md"
-    },
-    {
-      "basename": "Figure 12.10",
-      "path": "Heaps chapter12/Figure 12.10.md"
-    },
-    {
-      "basename": "Figure 12.7",
-      "path": "Heaps chapter12/Figure 12.7.md"
-    },
-    {
-      "basename": "Home page",
-      "path": "Heaps chapter12/Home page.md"
-    },
-    {
-      "basename": "points to remember",
-      "path": "Heaps chapter12/points to remember.md"
-    },
-    {
-      "basename": "12.5 APPLICATIONS OF HEAPS",
-      "path": "Heaps chapter12/12.5 APPLICATIONS OF HEAPS.md"
-    },
-    {
-      "basename": "12.4 COMPARISON OF BINARY, BINOMIAL, AND FIBONACCI HEAPS",
-      "path": "Heaps chapter12/12.4 COMPARISON OF BINARY, BINOMIAL, AND FIBONACCI HEAPS.md"
-    },
-    {
-      "basename": "12.3 FIBONACCI HEAPS",
-      "path": "Heaps chapter12/12.3 FIBONACCI HEAPS.md"
-    },
-    {
-      "basename": "12.2 BINOMIAL HEAPS",
-      "path": "Heaps chapter12/12.2 BINOMIAL HEAPS.md"
-    },
-    {
-      "basename": "Quick Guide",
-      "path": "Heaps chapter12/Quick Guide.md"
-    },
-    {
-      "basename": "Pasted image 20221208174329",
-      "path": "Heaps chapter12/photos_heap/Pasted image 20221208174329.png"
-    },
-    {
-      "basename": "Pasted image 20221208174251",
-      "path": "Heaps chapter12/photos_heap/Pasted image 20221208174251.png"
-    },
-    {
-      "basename": "Pasted image 20221208154531",
-      "path": "Heaps chapter12/photos_heap/Pasted image 20221208154531.png"
-    },
-    {
-      "basename": "Pasted image 20221208115824",
-      "path": "Heaps chapter12/photos_heap/Pasted image 20221208115824.png"
-    },
-    {
-      "basename": "Pasted image 20221208115358",
-      "path": "Heaps chapter12/photos_heap/Pasted image 20221208115358.png"
-    },
-    {
-      "basename": "Pasted image 20221208115253",
-      "path": "Heaps chapter12/photos_heap/Pasted image 20221208115253.png"
-    },
-    {
-      "basename": "Pasted image 20221208115031",
-      "path": "Heaps chapter12/photos_heap/Pasted image 20221208115031.png"
-    },
-    {
-      "basename": "Pasted image 20221208114808",
-      "path": "Heaps chapter12/photos_heap/Pasted image 20221208114808.png"
-    },
-    {
-      "basename": "Pasted image 20221208114632",
-      "path": "Heaps chapter12/photos_heap/Pasted image 20221208114632.png"
-    },
-    {
-      "basename": "Pasted image 20221208114139",
-      "path": "Heaps chapter12/photos_heap/Pasted image 20221208114139.png"
-    },
-    {
-      "basename": "Pasted image 20221208111737",
-      "path": "Heaps chapter12/photos_heap/Pasted image 20221208111737.png"
     }
   ],
   "omittedPaths": [],

@@ -10,9 +10,9 @@
 
 # BTW you can change the theme if you want doing:
 
-![[Pasted image 20221208175221.png]]
+![[Pasted image 20221215092629.png]]
 
-![[Pasted image 20221208175241.png]]
+
 
 # Go with the Flow
 
