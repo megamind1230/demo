@@ -8,18 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "191a0fd280f9f8ab",
+            "id": "a2d4244f3e5c4984",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "assembly language/فيديوهات جروب تيليجرام القديم/الرابع.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "617a25e866983307",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB prac/السكاشن المطلوبة للعملي.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f635e65012da01d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assembly language/فيديوهات جروب تيليجرام القديم/التاني.md",
+                "file": "DB prac/sql codes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assembly language/فيديوهات جروب تيليجرام القديم/التاني.md",
+                "file": "DB prac/السكاشن المطلوبة للعملي.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assembly language/فيديوهات جروب تيليجرام القديم/التاني.md",
+                "file": "DB prac/السكاشن المطلوبة للعملي.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "assembly language/فيديوهات جروب تيليجرام القديم/التاني.md",
+                "file": "DB prac/السكاشن المطلوبة للعملي.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assembly language/فيديوهات جروب تيليجرام القديم/التاني.md"
+                "file": "DB prac/السكاشن المطلوبة للعملي.md"
               }
             }
           }
@@ -200,17 +229,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "191a0fd280f9f8ab",
+  "active": "617a25e866983307",
   "lastOpenFiles": [
-    "assembly language/فيديوهات جروب تيليجرام القديم/الأول.md",
-    "assembly language/المصادر.md",
-    "assembly language/فيديوهات جروب تيليجرام القديم/landing.md",
-    "assembly language/فيديوهات جروب تيليجرام القديم/السادس.md",
-    "assembly language/فيديوهات جروب تيليجرام القديم/التالت.md",
-    "assembly language/فيديوهات جروب تيليجرام القديم/السابع.md",
-    "assembly language/فيديوهات جروب تيليجرام القديم/الخامس.md",
+    "DB prac/sql codes.md",
+    "DB prac/السكاشن المطلوبة للعملي.md",
+    "DB prac/SQL_Task_Chapters3&4.pdf",
     "assembly language/فيديوهات جروب تيليجرام القديم/الرابع.md",
-    "assembly language/فيديوهات جروب تيليجرام القديم/التاني.md",
-    "assembly language/8086 Microprocessor - YouTube Prof Osama/02.md"
+    "DB prac/SQL_Quiz_Ch1.pdf",
+    "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/2.md",
+    "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/1.md",
+    "assembly language/8086 Microprocessor - YouTube Prof Osama/landing.md",
+    "assembly language/فيديوهات جروب تيليجرام القديم/landing.md",
+    "assembly language/فيديوهات جروب تيليجرام القديم/الثالث.md"
   ]
 }

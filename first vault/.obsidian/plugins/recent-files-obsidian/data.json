@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "السكاشن المطلوبة للعملي",
+      "path": "DB prac/السكاشن المطلوبة للعملي.md"
+    },
+    {
+      "basename": "sql codes",
+      "path": "DB prac/sql codes.md"
+    },
+    {
+      "basename": "SQL_Task_Chapters3&4",
+      "path": "DB prac/SQL_Task_Chapters3&4.pdf"
+    },
+    {
+      "basename": "الرابع",
+      "path": "assembly language/فيديوهات جروب تيليجرام القديم/الرابع.md"
+    },
+    {
+      "basename": "SQL_Quiz_Ch1",
+      "path": "DB prac/SQL_Quiz_Ch1.pdf"
+    },
+    {
+      "basename": "2",
+      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/2.md"
+    },
+    {
+      "basename": "1",
+      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/1.md"
+    },
+    {
+      "basename": "landing",
+      "path": "assembly language/8086 Microprocessor - YouTube Prof Osama/landing.md"
+    },
+    {
+      "basename": "landing",
+      "path": "assembly language/فيديوهات جروب تيليجرام القديم/landing.md"
+    },
+    {
+      "basename": "الثالث",
+      "path": "assembly language/فيديوهات جروب تيليجرام القديم/الثالث.md"
+    },
+    {
       "basename": "التاني",
       "path": "assembly language/فيديوهات جروب تيليجرام القديم/التاني.md"
+    },
+    {
+      "basename": "السابع",
+      "path": "assembly language/فيديوهات جروب تيليجرام القديم/السابع.md"
+    },
+    {
+      "basename": "01",
+      "path": "assembly language/8086 Microprocessor - YouTube Prof Osama/01.md"
+    },
+    {
+      "basename": "landing",
+      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/landing.md"
     },
     {
       "basename": "الأول",
@@ -13,28 +65,8 @@
       "path": "assembly language/المصادر.md"
     },
     {
-      "basename": "landing",
-      "path": "assembly language/فيديوهات جروب تيليجرام القديم/landing.md"
-    },
-    {
       "basename": "السادس",
       "path": "assembly language/فيديوهات جروب تيليجرام القديم/السادس.md"
-    },
-    {
-      "basename": "التالت",
-      "path": "assembly language/فيديوهات جروب تيليجرام القديم/التالت.md"
-    },
-    {
-      "basename": "السابع",
-      "path": "assembly language/فيديوهات جروب تيليجرام القديم/السابع.md"
-    },
-    {
-      "basename": "الخامس",
-      "path": "assembly language/فيديوهات جروب تيليجرام القديم/الخامس.md"
-    },
-    {
-      "basename": "الرابع",
-      "path": "assembly language/فيديوهات جروب تيليجرام القديم/الرابع.md"
     },
     {
       "basename": "02",
@@ -43,18 +75,6 @@
     {
       "basename": "Pasted image 20221217134116",
       "path": "assembly language/8086 Microprocessor - YouTube Prof Osama/Pasted image 20221217134116.png"
-    },
-    {
-      "basename": "01",
-      "path": "assembly language/8086 Microprocessor - YouTube Prof Osama/01.md"
-    },
-    {
-      "basename": "landing",
-      "path": "assembly language/8086 Microprocessor - YouTube Prof Osama/landing.md"
-    },
-    {
-      "basename": "landing",
-      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/landing.md"
     },
     {
       "basename": "10",
@@ -87,14 +107,6 @@
     {
       "basename": "3",
       "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/3.md"
-    },
-    {
-      "basename": "2",
-      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/2.md"
-    },
-    {
-      "basename": "1",
-      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/1.md"
     },
     {
       "basename": "Home page",
@@ -187,18 +199,6 @@
     {
       "basename": "Untitled",
       "path": "Voldemort/Complete Ethical Hacking Bootcamp 2021 Zero to Mastery/2. Setting Up Our Hacking Lab/Untitled.md"
-    },
-    {
-      "basename": "the course roadmap",
-      "path": "Voldemort/Complete Ethical Hacking Bootcamp 2021 Zero to Mastery/1. Introduction/the course roadmap.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Voldemort/Kali - ‪CyberTraining365 Kali 101‬/Untitled.md"
-    },
-    {
-      "basename": "Appendix",
-      "path": "Heaps chapter12/Appendix.md"
     }
   ],
   "omittedPaths": [],
