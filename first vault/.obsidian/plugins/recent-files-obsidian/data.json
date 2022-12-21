@@ -1,12 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Home page",
+      "path": "Heaps chapter12/Home page.md"
+    },
+    {
+      "basename": "screenshots",
+      "path": "screenshots.md"
+    },
+    {
       "basename": "السكاشن المطلوبة للعملي",
       "path": "DB prac/السكاشن المطلوبة للعملي.md"
     },
     {
+      "basename": "collective os",
+      "path": "Voldemort/os sections (linux commands)/collective os.md"
+    },
+    {
+      "basename": "vim comfig, shrotcuts & keybindings",
+      "path": "Voldemort/vim/vim comfig, shrotcuts & keybindings.md"
+    },
+    {
+      "basename": "13→15- User and Group Management",
+      "path": "Voldemort/os sections (linux commands)/13→15- User and Group Management.md"
+    },
+    {
+      "basename": "12- Man Pages",
+      "path": "Voldemort/os sections (linux commands)/12- Man Pages.md"
+    },
+    {
+      "basename": "9,10- Working with file contents part 1",
+      "path": "Voldemort/os sections (linux commands)/9,10- Working with file contents part 1.md"
+    },
+    {
+      "basename": "6,7- Working with Files part 1",
+      "path": "Voldemort/os sections (linux commands)/6,7- Working with Files part 1.md"
+    },
+    {
+      "basename": "4- Working with Directories part 3",
+      "path": "Voldemort/os sections (linux commands)/4- Working with Directories part 3.md"
+    },
+    {
+      "basename": "Working with Directories part 1,2",
+      "path": "Voldemort/os sections (linux commands)/Working with Directories part 1,2.md"
+    },
+    {
+      "basename": "DOS commands",
+      "path": "Voldemort/os sections (linux commands)/DOS commands.md"
+    },
+    {
       "basename": "sql codes",
       "path": "DB prac/sql codes.md"
+    },
+    {
+      "basename": "3.4-4",
+      "path": "DB prac/3.4-4.png"
     },
     {
       "basename": "SQL_Task_Chapters3&4",
@@ -109,10 +157,6 @@
       "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/3.md"
     },
     {
-      "basename": "Home page",
-      "path": "Heaps chapter12/Home page.md"
-    },
-    {
       "basename": "Quick Guide",
       "path": "Heaps chapter12/Quick Guide.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "البقرة",
       "path": "قرآن/البقرة.md"
-    },
-    {
-      "basename": "Quantum Computing",
-      "path": "Quantum Computing/Quantum Computing.md"
-    },
-    {
-      "basename": "أحكام تفخيم وترقيق الراء",
-      "path": "Excalidraw/أحكام تفخيم وترقيق الراء.md"
-    },
-    {
-      "basename": "12- Man Pages",
-      "path": "Voldemort/os sections (linux commands)/12- Man Pages.md"
-    },
-    {
-      "basename": "13→15- User and Group Management",
-      "path": "Voldemort/os sections (linux commands)/13→15- User and Group Management.md"
-    },
-    {
-      "basename": "9,10- Working with file contents part 1",
-      "path": "Voldemort/os sections (linux commands)/9,10- Working with file contents part 1.md"
-    },
-    {
-      "basename": "6,7- Working with Files part 1",
-      "path": "Voldemort/os sections (linux commands)/6,7- Working with Files part 1.md"
-    },
-    {
-      "basename": "4- Working with Directories part 3",
-      "path": "Voldemort/os sections (linux commands)/4- Working with Directories part 3.md"
-    },
-    {
-      "basename": "Working with Directories part 1,2",
-      "path": "Voldemort/os sections (linux commands)/Working with Directories part 1,2.md"
-    },
-    {
-      "basename": "DOS commands",
-      "path": "Voldemort/os sections (linux commands)/DOS commands.md"
-    },
-    {
-      "basename": "vim comfig, shrotcuts & keybindings",
-      "path": "Voldemort/vim/vim comfig, shrotcuts & keybindings.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Voldemort/Complete Ethical Hacking Bootcamp 2021 Zero to Mastery/2. Setting Up Our Hacking Lab/Untitled.md"
     }
   ],
   "omittedPaths": [],
