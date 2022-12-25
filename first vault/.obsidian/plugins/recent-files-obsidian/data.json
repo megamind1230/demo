@@ -1,28 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "الخامس",
-      "path": "assembly language/فيديوهات جروب تيليجرام القديم/الخامس.md"
+      "basename": "01",
+      "path": "assembly language/8086 Microprocessor - YouTube Prof Osama/01.md"
     },
     {
-      "basename": "السادس",
-      "path": "assembly language/فيديوهات جروب تيليجرام القديم/السادس.md"
+      "basename": "screenshots",
+      "path": "screenshots.md"
     },
     {
-      "basename": "الأول",
-      "path": "assembly language/فيديوهات جروب تيليجرام القديم/الأول.md"
+      "basename": "المصادر",
+      "path": "assembly language/المصادر.md"
     },
     {
-      "basename": "التاني",
-      "path": "assembly language/فيديوهات جروب تيليجرام القديم/التاني.md"
-    },
-    {
-      "basename": "الثالث",
-      "path": "assembly language/فيديوهات جروب تيليجرام القديم/الثالث.md"
-    },
-    {
-      "basename": "الرابع",
-      "path": "assembly language/فيديوهات جروب تيليجرام القديم/الرابع.md"
+      "basename": "Pasted image 20221217141830",
+      "path": "assembly language/8086 Microprocessor - YouTube Prof Osama/Pasted image 20221217141830.png"
     },
     {
       "basename": "points to remember",
@@ -35,10 +27,6 @@
     {
       "basename": "12.1 BINARY HEAPS",
       "path": "Heaps chapter12/12.1 BINARY HEAPS.md"
-    },
-    {
-      "basename": "screenshots",
-      "path": "screenshots.md"
     },
     {
       "basename": "السكاشن المطلوبة للعملي",
@@ -97,72 +85,8 @@
       "path": "DB prac/SQL_Quiz_Ch1.pdf"
     },
     {
-      "basename": "2",
-      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/2.md"
-    },
-    {
-      "basename": "1",
-      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/1.md"
-    },
-    {
-      "basename": "landing",
-      "path": "assembly language/8086 Microprocessor - YouTube Prof Osama/landing.md"
-    },
-    {
-      "basename": "landing",
-      "path": "assembly language/فيديوهات جروب تيليجرام القديم/landing.md"
-    },
-    {
-      "basename": "01",
-      "path": "assembly language/8086 Microprocessor - YouTube Prof Osama/01.md"
-    },
-    {
-      "basename": "landing",
-      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/landing.md"
-    },
-    {
-      "basename": "المصادر",
-      "path": "assembly language/المصادر.md"
-    },
-    {
-      "basename": "02",
-      "path": "assembly language/8086 Microprocessor - YouTube Prof Osama/02.md"
-    },
-    {
       "basename": "Pasted image 20221217134116",
       "path": "assembly language/8086 Microprocessor - YouTube Prof Osama/Pasted image 20221217134116.png"
-    },
-    {
-      "basename": "10",
-      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/10.md"
-    },
-    {
-      "basename": "9",
-      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/9.md"
-    },
-    {
-      "basename": "8",
-      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/8.md"
-    },
-    {
-      "basename": "7",
-      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/7.md"
-    },
-    {
-      "basename": "6",
-      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/6.md"
-    },
-    {
-      "basename": "5",
-      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/5.md"
-    },
-    {
-      "basename": "4",
-      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/4.md"
-    },
-    {
-      "basename": "3",
-      "path": "assembly language/8086 Assembly Instruction set with EMU8086 EMULATOR - YouTube/3.md"
     },
     {
       "basename": "Quick Guide",
@@ -191,14 +115,6 @@
     {
       "basename": "12.5 APPLICATIONS OF HEAPS",
       "path": "Heaps chapter12/12.5 APPLICATIONS OF HEAPS.md"
-    },
-    {
-      "basename": "Figure 12.20",
-      "path": "Heaps chapter12/Figure 12.20.md"
-    },
-    {
-      "basename": "البقرة",
-      "path": "قرآن/البقرة.md"
     }
   ],
   "omittedPaths": [],
