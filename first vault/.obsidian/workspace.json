@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3562b617c8ff6206",
+            "id": "dcfac85b330abf41",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assembly language/8086 Microprocessor - YouTube Prof Osama/01.md",
+                "file": "assembly language/8086 Microprocessor - YouTube Prof Osama/code.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -30,8 +32,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d6b8591cc10c0d8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COAL/COAL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assembly language/8086 Microprocessor - YouTube Prof Osama/01.md",
+                "file": "COAL/COAL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assembly language/8086 Microprocessor - YouTube Prof Osama/01.md",
+                "file": "COAL/COAL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "assembly language/8086 Microprocessor - YouTube Prof Osama/01.md",
+                "file": "COAL/COAL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assembly language/8086 Microprocessor - YouTube Prof Osama/01.md"
+                "file": "COAL/COAL.md"
               }
             }
           }
@@ -228,17 +243,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1ca64862f67ba42f",
+  "active": "d6b8591cc10c0d8f",
   "lastOpenFiles": [
+    "assembly language/8086 Microprocessor - YouTube Prof Osama/code.md",
+    "assembly language/8086 Microprocessor - YouTube Prof Osama/01.md",
+    "COAL/COAL.md",
+    "assembly language/المصادر.md",
     "screenshots.md",
     "assembly language/8086 Microprocessor - YouTube Prof Osama/landing.md",
-    "assembly language/8086 Microprocessor - YouTube Prof Osama/01.md",
     "assembly language/8086 Microprocessor - YouTube Prof Osama/04.md",
     "assembly language/8086 Microprocessor - YouTube Prof Osama/03.md",
     "assembly language/8086 Microprocessor - YouTube Prof Osama/02.md",
-    "assembly language/المصادر.md",
-    "assembly language/8086 Microprocessor - YouTube Prof Osama/Pasted image 20221217141830.png",
-    "assembly language/فيديوهات جروب تيليجرام القديم/landing.md",
-    "assembly language/فيديوهات جروب تيليجرام القديم/التاني.md"
+    "assembly language/8086 Microprocessor - YouTube Prof Osama/Pasted image 20221217141830.png"
   ]
 }
