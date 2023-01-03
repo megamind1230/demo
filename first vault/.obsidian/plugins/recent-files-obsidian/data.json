@@ -1,28 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "COAL",
-      "path": "COAL/COAL.md"
+      "basename": "ds recap+qna",
+      "path": "DS/ds recap+qna.md"
     },
     {
-      "basename": "code",
-      "path": "assembly language/8086 Microprocessor - YouTube Prof Osama/code.md"
+      "basename": "to gk",
+      "path": "to gk.md"
     },
     {
-      "basename": "01",
-      "path": "assembly language/8086 Microprocessor - YouTube Prof Osama/01.md"
+      "basename": "Pasted image 20221208110106",
+      "path": "Heaps chapter12/photos_heap/Pasted image 20221208110106.png"
     },
     {
-      "basename": "المصادر",
-      "path": "assembly language/المصادر.md"
+      "basename": "Quick Guide",
+      "path": "Heaps chapter12/Quick Guide.md"
     },
     {
-      "basename": "screenshots",
-      "path": "screenshots.md"
-    },
-    {
-      "basename": "Pasted image 20221217141830",
-      "path": "assembly language/8086 Microprocessor - YouTube Prof Osama/Pasted image 20221217141830.png"
+      "basename": "12.2 BINOMIAL HEAPS",
+      "path": "Heaps chapter12/12.2 BINOMIAL HEAPS.md"
     },
     {
       "basename": "points to remember",
@@ -31,6 +27,62 @@
     {
       "basename": "Home page",
       "path": "Heaps chapter12/Home page.md"
+    },
+    {
+      "basename": "Appendix",
+      "path": "Heaps chapter12/Appendix.md"
+    },
+    {
+      "basename": "gimp1",
+      "path": "GIMP/gimp1/gimp1.md"
+    },
+    {
+      "basename": "MakeItPop2",
+      "path": "GIMP/gimp1/Section 3/MakeItPop2.png"
+    },
+    {
+      "basename": "MakeItPop",
+      "path": "GIMP/gimp1/Section 3/MakeItPop.jpg"
+    },
+    {
+      "basename": "git1",
+      "path": "git & github/git1.md"
+    },
+    {
+      "basename": "release",
+      "path": "release.md"
+    },
+    {
+      "basename": "code",
+      "path": "COAL/assembly language/8086 Microprocessor - YouTube Prof Osama/code.md"
+    },
+    {
+      "basename": "COAL",
+      "path": "COAL/COAL.md"
+    },
+    {
+      "basename": "شرح",
+      "path": "COAL/شرح.md"
+    },
+    {
+      "basename": "qna",
+      "path": "COAL/qna.md"
+    },
+    {
+      "basename": "assmebly lang",
+      "path": "COAL/assembly language/8086 Microprocessor - YouTube Prof Osama/assmebly lang.md"
+    },
+    {
+      "basename": "المصادر",
+      "path": "COAL/assembly language/المصادر.md"
+    },
+    {
+      "basename": "screenshots",
+      "path": "screenshots.md"
+    },
+    {
+      "basename": "Pasted image 20221217141830",
+      "path": "COAL/assembly language/8086 Microprocessor - YouTube Prof Osama/Pasted image 20221217141830.png"
     },
     {
       "basename": "12.1 BINARY HEAPS",
@@ -94,11 +146,7 @@
     },
     {
       "basename": "Pasted image 20221217134116",
-      "path": "assembly language/8086 Microprocessor - YouTube Prof Osama/Pasted image 20221217134116.png"
-    },
-    {
-      "basename": "Quick Guide",
-      "path": "Heaps chapter12/Quick Guide.md"
+      "path": "COAL/assembly language/8086 Microprocessor - YouTube Prof Osama/Pasted image 20221217134116.png"
     },
     {
       "basename": "Pasted image 20221215092629",
@@ -107,10 +155,6 @@
     {
       "basename": "Q&A",
       "path": "Q&A.md"
-    },
-    {
-      "basename": "12.2 BINOMIAL HEAPS",
-      "path": "Heaps chapter12/12.2 BINOMIAL HEAPS.md"
     },
     {
       "basename": "12.3 FIBONACCI HEAPS",

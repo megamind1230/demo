@@ -4,49 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d0c57096f48069fc",
+        "id": "c8f25362f0c26654",
         "type": "tabs",
         "children": [
           {
-            "id": "dcfac85b330abf41",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "assembly language/8086 Microprocessor - YouTube Prof Osama/code.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "0f2e03cc55b7f4d5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "d6b8591cc10c0d8f",
+            "id": "07f4d40594d98f11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COAL/COAL.md",
+                "file": "DS/ds recap+qna.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "946f97dadbcb9e2b",
@@ -112,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5110321044922
+    "width": 265.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7f78fb0a22191559",
@@ -121,6 +96,7 @@
       {
         "id": "d1b1d9fd66e5d988",
         "type": "tabs",
+        "dimension": 25.094102885821837,
         "children": [
           {
             "id": "ae02bf28d32757a8",
@@ -128,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COAL/COAL.md",
+                "file": "DS/ds recap+qna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COAL/COAL.md",
+                "file": "DS/ds recap+qna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "COAL/COAL.md",
+                "file": "DS/ds recap+qna.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,6 +168,7 @@
       {
         "id": "74f8074fb2ac5628",
         "type": "tabs",
+        "dimension": 24.968632371392722,
         "children": [
           {
             "id": "202c6d41509263f2",
@@ -209,6 +186,7 @@
       {
         "id": "159e598d7559d573",
         "type": "tabs",
+        "dimension": 49.937264742785445,
         "children": [
           {
             "id": "f313dd9a8fe823d4",
@@ -216,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COAL/COAL.md"
+                "file": "DS/ds recap+qna.md"
               }
             }
           }
@@ -224,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,20 +217,21 @@
       "zk-prefixer:Create new unique note": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "d6b8591cc10c0d8f",
+  "active": "92eb7dafc2dc570e",
   "lastOpenFiles": [
-    "assembly language/8086 Microprocessor - YouTube Prof Osama/code.md",
-    "assembly language/8086 Microprocessor - YouTube Prof Osama/01.md",
-    "COAL/COAL.md",
-    "assembly language/المصادر.md",
-    "screenshots.md",
-    "assembly language/8086 Microprocessor - YouTube Prof Osama/landing.md",
-    "assembly language/8086 Microprocessor - YouTube Prof Osama/04.md",
-    "assembly language/8086 Microprocessor - YouTube Prof Osama/03.md",
-    "assembly language/8086 Microprocessor - YouTube Prof Osama/02.md",
-    "assembly language/8086 Microprocessor - YouTube Prof Osama/Pasted image 20221217141830.png"
+    "to gk.md",
+    "Heaps chapter12/photos_heap/Pasted image 20221208110106.png",
+    "Heaps chapter12/Quick Guide.md",
+    "Heaps chapter12/12.2 BINOMIAL HEAPS.md",
+    "Heaps chapter12/points to remember.md",
+    "Heaps chapter12/Home page.md",
+    "Heaps chapter12/Appendix.md",
+    "DS/ds recap+qna.md",
+    "GIMP/gimp1/gimp1.md",
+    "GIMP/gimp1/Section 3/MakeItPop2.png"
   ]
 }

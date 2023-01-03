@@ -1,4 +1,157 @@
-#### Elements of cache design
+### Q&A
+#### 2021
+![[Pasted image 20221230165735.png]]
+![[Pasted image 20221230165818.png]]
+![[Pasted image 20221230165832.png]]
+![[Pasted image 20221230165843.png]]
+![[Pasted image 20221230165850.png]]
+![[Pasted image 20221230165901.png]]
+![[Pasted image 20221230165916.png]]
+#### mid
+![[Pasted image 20221230170421.png]]
+![[Pasted image 20221230170451.png]]
+![[Pasted image 20221230170530.png]]
+![[Pasted image 20221230170652.png]]
+![[Pasted image 20221230170739.png]]
+![[Pasted image 20221230170814.png]]
+![[Pasted image 20221230170904.png]]
+#still_coal 
+![[Pasted image 20221230171011.png]]
+![[Pasted image 20221230171058.png]]
+![[Pasted image 20221230171123.png]]
+
+
+
+
+2
+
+#### 2022
+![[Pasted image 20221231201054.png]]
+![[Pasted image 20221231201123.png]]
+![[Pasted image 20221231201140.png]]
+![[Pasted image 20221231201155.png]]
+![[Pasted image 20221231201207.png]]
+![[Pasted image 20221231201235.png]]
+![[Pasted image 20221231201252.png]]
+![[Pasted image 20221231201300.png]]
+![[Pasted image 20221231201322.png]]
+
+#### 2021
+![[Pasted image 20221231201424.png]]
+![[Pasted image 20221231201434.png]]
+![[Pasted image 20221231201606.png]]
+![[Pasted image 20221231201626.png]]
+![[Pasted image 20221231201650.png]]
+![[Pasted image 20221231201659.png]]
+
+
+#### 2020
+![[Pasted image 20221231201801.png]]
+![[Pasted image 20221231201817.png]]
+![[Pasted image 20221231201833.png]]
+![[Pasted image 20221231202014.png]]
+![[Pasted image 20221231202045.png]]
+![[Pasted image 20221231202057.png]]
+![[Pasted image 20221231202104.png]]
+![[Pasted image 20221231202123.png]]
+![[Pasted image 20221231202159.png]]
+![[Pasted image 20221231202213.png]]
+![[Pasted image 20221231202222.png]]
+![[Pasted image 20221231202232.png]]
+![[Pasted image 20221231202243.png]]
+![[Pasted image 20221231202314.png]]
+![[Pasted image 20221231202322.png]]
+![[Pasted image 20221231202331.png]]
+![[Pasted image 20221231202414.png]]
+![[Pasted image 20221231202424.png]]
+![[Pasted image 20221231202435.png]]
+![[Pasted image 20221231202449.png]]
+![[Pasted image 20221231202500.png]]
+![[Pasted image 20221231202525.png]]
+
+
+### sequential circuits
+
+
+##### الهبد القديم
+
+- 1- Introduction to Sequential circuits Part1
+	- ![[Pasted image 20221230094858.png]]
+	- ![[Pasted image 20221230094905.png]]
+	- 1MHz 1M times 1 time each 1 micro sec
+	- ![[Pasted image 20221230094919.png]]
+	- ![[Pasted image 20221230094927.png]]
+	- ![[Pasted image 20221230094933.png]]
+	- SR latch
+		- ![[Pasted image 20221230095037.png]]
+		- notice S is at the level of Q dash
+		- ![[Pasted image 20221230095044.png]]
+		- not used = hazard البت اللي بنركز على تخزينها هي ال Q
+		- ![[Pasted image 20221230095107.png]]
+		- on the left is the nor table
+		- how to make it sync
+			- ![[Pasted image 20221230095132.png]]
+	- D latch
+		- solves the hazard case
+		- ![[Pasted image 20221230095200.png]]
+		- D represents the S
+	- flip-flop
+		- ![[Pasted image 20221230095227.png]]
+		- 2 latches connected in cascade
+		- ![[Pasted image 20221230095248.png]]
+		- ![[Pasted image 20221230095255.png]]
+		- ![[Pasted image 20221230095303.png]]
+		- ex
+			- ![[Pasted image 20221230095314.png]]
+			- later
+- 2- Introduction to Sequential circuits Part 2
+	-  registers
+	    - temp storage
+	    - uses and consisits of 1 FF or more
+	    - 2 types
+	        - parallel
+	            - all bits at the same time
+	            - ![[Pasted image 20221230095424.png]]
+	            - شغل ال clock واطفيها هتسجل الصف اللي فوق تحت
+	            - LE latch enable
+	            - OE > 212out enable when 1
+	                - لو فوقها شرطة يبقى
+	                - out enable when 0
+	                - بنسميها برضو active low21
+	            - [من هنا الموضوع بدأ يضلم شويتين](https://youtu.be/-dcVhRKsb1U?t=400)
+	            - 3-state output ?
+	                - hight - low - higth impedance
+	                - من فوايد البفر هو زيادة الكهربية بتاعة الإشارة
+	                - ![[Pasted image 20221230095511.png]]
+	                - ![[Pasted image 20221230095524.png]]
+	                - 2 tri-state buffer logic contection
+	                - ![[Pasted image 20221230095544.png]]
+	                - 
+	        - serial
+- 3- Sequential Part 3
+	- serial shift register
+		- ![[Pasted image 20221230095633.png]]
+		- called serial in … parallel out shift register >>> used to convert serial into parallel
+		- these shift regs are used for conversions & as counters (step counters)
+		- ![[Pasted image 20221230095657.png]] #still_coal 
+		- ![[Pasted image 20221230095708.png]]
+		- ![[Pasted image 20221230095724.png]]
+		- binary counter
+			- ![[Pasted image 20221230095741.png]]
+			- ![[Pasted image 20221230095753.png]]
+			- 
+			- johnson cntr / step cntr
+			- MR > master reset
+- 4-Introduction to Sequential circuits Part 4 Audio compressed
+	- ![[Pasted image 20221230095831.png]]
+	- ![[Pasted image 20221230095843.png]]
+	- ![[Pasted image 20221230095854.png]]
+	- 
+
+
+---
+
+#### ch4 Elements of cache design
 
 internal تقاس بالوورد وهي مضاعفات البايت
 	عكسها ال external ديما بايت
@@ -57,6 +210,10 @@ how many bits to book for block / word / tag / line
 ودي رسمته
 ![[Pasted image 20221229112117.png]]
 #still_coal  آخر سطر
+الادرس دا كله اسمه 
+P.A. bits = phys addre bits
+والرام اسمها 
+PAS = phy addre space
 ملخص القوانين .. مش مهمة جدا
 ![[Pasted image 20221229112650.png]]
 
@@ -66,20 +223,122 @@ how many bits to book for block / word / tag / line
 ![[Pasted image 20221229181948.png]]
 
 
+associative
+![[Pasted image 20221229184705.png]]
 
+الفيديوهات من نيسو اكاديمي
 
+----
 
+### ch1 intro to computer organization
 
+![[Pasted image 20221230082014.png]]
+213![[Pasted image 20221230082059.png]]
 
+![[Pasted image 20221230082108.png]]
+![[Pasted image 20221230082120.png]]
+- the main 4 components of computer
+	- cpu
+	- main mem
+	- I/O
+	- sys interconn (bus system)
+		- makes a communications between the above
+- the computer can run without a Hard Disk
 
+![[Pasted image 20221230082223.png]]
+![[Pasted image 20221230082240.png]]
+![[Pasted image 20221230082249.png]]
 
+![[Pasted image 20221230082256.png]]
+![[Pasted image 20221230082303.png]]
+![[Pasted image 20221230082310.png]]
+`MC: memory controller SC: Storage Controller`
+	![[Pasted image 20221230082343.png]]
+	
 
+`ISU (instruction sequence unit): • IFU (instruction fetch unit) • IDU (instruction decode unit) • LSU (load-store unit) • XU (translation unit): logical address –physical address • FXU (fixed-point unit) • BFU (binary floating-point unit) • DFU (decimal floating-point unit), etc.`
+	![[Pasted image 20221230082436.png]]
 
+##### generations
 
-
-
-
-
+- 1st gen of comp vac
+	- ![[Pasted image 20221230082521.png]]
+	- ![[Pasted image 20221230082540.png]]
+	- ![[Pasted image 20221230082550.png]]
+	- ![[Pasted image 20221230082559.png]]
+	- MBR MAR IR IBR PC AC MQ
+	- ![[Pasted image 20221230082612.png]]
+	- flow of IAS operations
+	- ![[Pasted image 20221230082624.png]]
+	- 
+- 2nd gen of comp trans
+	- ![[Pasted image 20221230082701.png]]
+	- ![[Pasted image 20221230082708.png]]
+	- ![[Pasted image 20221230082715.png]]
+	- 
+- 3rd gen of comp integ circ IC
+	- ![[Pasted image 20221230082746.png]]
+	- ![[Pasted image 20221230082826.png]]
+	- omni > all / collective
+	- الاجيال السابقة كانت بتشتغل على ال mux مش على ال gates ! والله ما فاهم
+	- ![[Pasted image 20221230082855.png]]
+	- storage using mem cells
+	- processing using gates
+	- both are simple digital electronic components
+	- paths to connect
+		- mem with mems
+		- gates with mem
+	- control signals can be carried
+	- computer consists of mem cells, gates , interconnections
+	- wafer رقاقة شبكية
+	- ![[Pasted image 20221230082952.png]]
+	- moore
+	- ![[Pasted image 20221230083011.png]]
+	- ![[Pasted image 20221230083024.png]]
+	- ![[Pasted image 20221230083041.png]]
+	- ![[Pasted image 20221230083052.png]]
+	- 
+- microprocessor
+	- ![[Pasted image 20221230083146.png]]
+	- ![[Pasted image 20221230083157.png]]
+	- ![[Pasted image 20221230083209.png]]
+	- virtual mem is from the hard desk used as a part of the main mem
+	- feature size حجم الترانزستور
+	- ![[Pasted image 20221230083250.png]]
+	- كان الويندوز سنتها بتنزل على 16 فلوبي ديسك
+	- ![[Pasted image 20221230083308.png]]
+	- ![[Pasted image 20221230083322.png]]
+	- ![[Pasted image 20221230083339.png]]
+	- multiple pipe-lining > superscaling
+	- later
+	- ![[Pasted image 20221230083403.png]]
+	- 
+- embedded sys another lecture
+	- electronics + software within a product
+	- ![[Pasted image 20221230083449.png]]
+	- D/A > decoder / adder
+	- ![[Pasted image 20221230083508.png]]
+- IoT
+	- ![[Pasted image 20221230083533.png]]
+	- ![[Pasted image 20221230083545.png]]
+	- ![[Pasted image 20221230083559.png]]
+	- microcontroller vs microprocessor ? later
+	- ![[Pasted image 20221230083616.png]]
+	- 
+- ARM
+	- remember that RISC and CISC are intel x86 based
+		- ![[Pasted image 20221230083650.png]]
+	- ![[Pasted image 20221230083705.png]]
+	- ![[Pasted image 20221230083715.png]]
+	- 
+- cloud computing
+	- ubiquitious هلهولة وفي كل مكان
+	- provisioned withمزود ب
+	- ![[Pasted image 20221230083754.png]]
+	- ![[Pasted image 20221230083808.png]]
+	- ![[Pasted image 20221230083825.png]]
+	- ![[Pasted image 20221230083839.png]]
+	- 
 
 
 
