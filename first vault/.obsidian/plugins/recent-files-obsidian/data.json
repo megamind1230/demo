@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "ds recap+qna",
-      "path": "DS/ds recap+qna.md"
+      "basename": "info",
+      "path": "GT/c/info.md"
+    },
+    {
+      "basename": "qna",
+      "path": "GT/c/qna.md"
     },
     {
       "basename": "to gk",
       "path": "to gk.md"
+    },
+    {
+      "basename": "release",
+      "path": "release.md"
+    },
+    {
+      "basename": "ds recap+qna",
+      "path": "DS/ds recap+qna.md"
     },
     {
       "basename": "Pasted image 20221208110106",
@@ -49,10 +61,6 @@
       "path": "git & github/git1.md"
     },
     {
-      "basename": "release",
-      "path": "release.md"
-    },
-    {
       "basename": "code",
       "path": "COAL/assembly language/8086 Microprocessor - YouTube Prof Osama/code.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "المصادر",
       "path": "COAL/assembly language/المصادر.md"
-    },
-    {
-      "basename": "screenshots",
-      "path": "screenshots.md"
     },
     {
       "basename": "Pasted image 20221217141830",
@@ -151,10 +155,6 @@
     {
       "basename": "Pasted image 20221215092629",
       "path": "Heaps chapter12/Pasted image 20221215092629.png"
-    },
-    {
-      "basename": "Q&A",
-      "path": "Q&A.md"
     },
     {
       "basename": "12.3 FIBONACCI HEAPS",

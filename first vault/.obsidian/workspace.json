@@ -8,18 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "07f4d40594d98f11",
+            "id": "785f9d5f698ee3f3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/ds recap+qna.md",
+                "file": "GT/c/qna.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fe967de6319ca1a4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GT/c/info.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "946f97dadbcb9e2b",
@@ -86,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5110321044922,
-    "collapsed": true
+    "width": 204.5110321044922
   },
   "right": {
     "id": "7f78fb0a22191559",
@@ -104,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/ds recap+qna.md",
+                "file": "GT/c/info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/ds recap+qna.md",
+                "file": "GT/c/info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DS/ds recap+qna.md",
+                "file": "GT/c/info.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/ds recap+qna.md"
+                "file": "GT/c/info.md"
               }
             }
           }
@@ -202,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,17 +236,17 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "92eb7dafc2dc570e",
+  "active": "fe967de6319ca1a4",
   "lastOpenFiles": [
+    "GT/c/qna.md",
+    "GT/c/info.md",
+    "GT/c/Q&N.md",
     "to gk.md",
-    "Heaps chapter12/photos_heap/Pasted image 20221208110106.png",
-    "Heaps chapter12/Quick Guide.md",
-    "Heaps chapter12/12.2 BINOMIAL HEAPS.md",
-    "Heaps chapter12/points to remember.md",
-    "Heaps chapter12/Home page.md",
-    "Heaps chapter12/Appendix.md",
+    "release.md",
+    "screenshots.md",
+    "Q&A.md",
     "DS/ds recap+qna.md",
-    "GIMP/gimp1/gimp1.md",
-    "GIMP/gimp1/Section 3/MakeItPop2.png"
+    "Heaps chapter12/photos_heap/Pasted image 20221208110106.png",
+    "Heaps chapter12/Quick Guide.md"
   ]
 }
