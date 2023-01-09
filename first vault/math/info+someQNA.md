@@ -1,0 +1,130 @@
+- photos
+	- ![[Pasted image 20230106083809.png]]
+	- 9.7
+		- ![[Pasted image 20230106084032.png]]
+
+- {6.1}
+	- 423
+	- ![[Pasted image 20230106140429.png]]
+	- ![[Pasted image 20230106140443.png]]
+	- ![[Pasted image 20230106140538.png]]
+	- ![[Pasted image 20230106140551.png]]
+	- ![[Pasted image 20230106140623.png]]
+	- ![[Pasted image 20230106140650.png]]
+	- ![[Pasted image 20230106140716.png]]
+	- **When using this method, note that you can obtain better approximations of the exact solution by choosing smaller and smaller step sizes.**
+		- ![[Pasted image 20230106140805.png]]
+	- 
+- {6.2}
+	- 432
+	- half-life values
+		- ![[Pasted image 20230106112307.png]]
+	- separation of variables
+	- ![[Pasted image 20230106140917.png]]
+	- ![[Pasted image 20230106140946.png]]
+	- ![[Pasted image 20230106141012.png]]
+	- ![[Pasted image 20230106141032.png]]
+	- Radioactive decay is measured in terms of half-life
+	- ![[Pasted image 20230106141108.png]]
+	- ممكن تستخدم قسمة معادلتين على بعض او التعويض بواحدة في الأخرى
+	- ![[Pasted image 20230106141219.png]]
+	- ![[Pasted image 20230106141250.png]]
+	- 
+
+- {9.1}
+	- 605
+	- ((9.1))
+	- 1- https://youtu.be/L-JqHo4-W4k 
+	- (0:00 -> 3:20)
+	- 2- https://youtu.be/dS35UK6vn8I
+	- (Monotonic and Bounded Sequences)
+	- pattern recognition
+	- ![[Pasted image 20230106174851.png]]
+	- ![[Pasted image 20230106174914.png]]
+	- ![[Pasted image 20230106175009.png]]
+	- ![[Pasted image 20230106175054.png]]
+  - ![[Pasted image 20230106175403.png]]
+  - بيدأ التعويض ب 1
+  - recursively defined sequence
+  - converge > المتسلسلات اللي بتقترب من حد
+  - ![[Pasted image 20230106175532.png]]
+	   - ![[Pasted image 20230106175548.png]]
+  - ![[Pasted image 20230106175758.png]]
+  - ![[Pasted image 20230106175834.png]]
+  - Factorials follow the same conventions for order of operations as exponents
+  - ![[Pasted image 20230106175903.png]]
+  - ![[Pasted image 20230106175928.png]]
+  - ![[Pasted image 20230106175938.png]]
+  - ![[Pasted image 20230106175955.png]]
+  - **يبقى converge فقط عند وجود قيمة غير ال ما لا نهاية** 
+  - ![[Pasted image 20230106180057.png]]
+  - ![[Pasted image 20230106180118.png]]
+  - ![[Pasted image 20230106180245.png]]
+  - ![[Pasted image 20230106180311.png]]
+  - ![[Pasted image 20230106180335.png]]
+  - ![[Pasted image 20230106180345.png]] مهمة
+	- طالما الدالة بتتذبذب يبقى divergent sequence (ملناش في ال series دلوقت)
+	- ![[Pasted image 20230107145649.png]]
+	- 
+
+- {9.2}
+	- 616
+	- 
+	- geometric series --> https://youtu.be/ki6G-a6uhmA
+	- telescoping series --> https://youtu.be/DShApoeg6F4 (0:00)->(9:00)
+	  - partial fraction --> https://youtu.be/DShApoeg6F4 (9:00)->(13:25)
+	- Divergence test --> https://youtu.be/8A0JVa19drA
+	- 
+	- 
+	- كل الكلام عن المتتابعات الغير محدودة
+	- ![[Pasted image 20230107105052.png]]
+	- If the sequence of partial sums {Sn } converges to S, then the series converges. The limit S is called the sum of the series.
+	- ![[Pasted image 20230107105150.png]]
+	- ![[Pasted image 20230107105254.png]]
+	- ![[Pasted image 20230107105322.png]]
+	- #still_math
+	- ![[Pasted image 20230107105350.png]]
+	- #partial_fractions
+	- بيفضل في ال geo series انه يبدأ من 0
+	- ![[Pasted image 20230107105527.png]]
+	- ![[Pasted image 20230107105541.png]]
+	- ![[Pasted image 20230107105553.png]]
+	- ![[formath.canvas]] convergent / divergent
+	- ![[Pasted image 20230107105700.png]]
+	- ![[Pasted image 20230107105739.png]]
+	- ![[Pasted image 20230107105800.png]]
+	- ![[Pasted image 20230107151102.png]]
+	- ![[Pasted image 20230107151204.png]]
+	- ![[Pasted image 20230107152747.png]]
+	- 
+
+- {9.7}
+	- 657
+	- 
+	- taylor polynomail --> https://youtu.be/Xa-DJoDxG74
+	- maclaurin --> the c = 0  in ( pic )
+	- 
+	- reminder -->https://youtu.be/lY0LzJXTgeo
+	- ![[Pasted image 20230107173700.png]]
+	- مهمة
+	- ![[Pasted image 20230107174832.png]]
+	- ![[Pasted image 20230107183056.png]]
+	- ![[Pasted image 20230107183112.png]]
+	- ![[Pasted image 20230107174625.png]]
+	- sinh مشتقها
+		- cosh
+		- ثم sinh تاني وهكذا
+	- expanded about c or centered at c.
+	- ![[Pasted image 20230107183524.png]]
+	- ![[Pasted image 20230107183535.png]]
+	- على المشتقة - مضروب -أس القوس
+	- ![[Pasted image 20230107183639.png]]
+	- ![[Pasted image 20230107183812.png]]
+	- ![[Pasted image 20230107183842.png]]
+	- ![[Pasted image 20230107184011.png]]
+	- 
+- {9.8}
+	- 668
+	- 
+- {9.9}
+	- 678

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"dcffe298f35a7bee","x":-381,"y":-552,"width":2073,"height":1587,"type":"group","label":"series"},
+		{"id":"4c57492a2e648c88","x":726,"y":-215,"width":543,"height":153,"type":"text","text":"لو المجموع بي converge\nيبقى فيمة العنصر البعيد بتقترب من ال 0"},
+		{"id":"f5e0780098ef5e95","x":-6,"y":629,"width":1075,"height":339,"type":"file","file":"math/Pasted image 20230107103412.png"},
+		{"id":"e87b540851ab141f","x":472,"y":-506,"width":432,"height":184,"type":"text","text":"ما هو اصله مجموع \nفإما يطلع إلى ما لا نهاية في أحد الاتجاهات .. \nدا لو divergent\nأوغير كدا\nدا لو convergent\nشكرا"},
+		{"id":"a6b78945cdd9c0fa","x":946,"y":-367,"width":250,"height":60,"type":"text","text":"البداية"},
+		{"id":"6b33c4f731756a75","x":-288,"y":-502,"width":281,"height":135,"type":"text","text":"لو كانت العنصر البعيد قيمته لا تقترب من 0\nهتبقى \ndivergent طبيعي"},
+		{"id":"b9e2a5901318d52d","x":-361,"y":-260,"width":863,"height":198,"type":"file","file":"math/Pasted image 20230107103224.png"},
+		{"id":"ff964d541c21fc09","x":-147,"y":211,"width":393,"height":212,"type":"text","text":"طيب لو العكس \nالعنصر البعيد بيقترب من ال 0\nيبقى \nأولا مش هنطبع عليه ال\nnth term test for divergence\nثانيا\nمنعرفش نحدد هل هي \nconv/ div"},
+		{"id":"be331bc5ae6184b0","x":322,"y":164,"width":1310,"height":307,"type":"file","file":"math/Pasted image 20230107103302.png"}
+	],
+	"edges":[
+		{"id":"6be54288ac579876","fromNode":"6b33c4f731756a75","fromSide":"bottom","toNode":"b9e2a5901318d52d","toSide":"top"},
+		{"id":"96de53ef0c4ba4b2","fromNode":"4c57492a2e648c88","fromSide":"bottom","toNode":"be331bc5ae6184b0","toSide":"top"},
+		{"id":"9bb7f022dee6ce13","fromNode":"be331bc5ae6184b0","fromSide":"left","toNode":"f5e0780098ef5e95","toSide":"top"},
+		{"id":"5c163da09736405e","fromNode":"f5e0780098ef5e95","fromSide":"left","toNode":"ff964d541c21fc09","toSide":"bottom"},
+		{"id":"aa5cd97ffd88ac2a","fromNode":"a6b78945cdd9c0fa","fromSide":"bottom","toNode":"4c57492a2e648c88","toSide":"top"},
+		{"id":"117ef894aaa86941","fromNode":"ff964d541c21fc09","fromSide":"top","toNode":"b9e2a5901318d52d","toSide":"bottom"}
+	]
+}

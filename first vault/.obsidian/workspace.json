@@ -4,39 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c8f25362f0c26654",
+        "id": "ba3b12fa23ce52cd",
         "type": "tabs",
         "children": [
           {
-            "id": "785f9d5f698ee3f3",
+            "id": "6446c144be593e64",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GT/c/qna.md",
+                "file": "math/info+someQNA.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "fe967de6319ca1a4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GT/c/info.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,8 +102,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GT/c/info.md",
-                "collapseAll": false,
+                "file": "math/info+someQNA.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -136,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GT/c/info.md",
+                "file": "math/info+someQNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +131,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "GT/c/info.md",
+                "file": "math/info+someQNA.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 5,
                   "localBacklinks": true,
@@ -161,7 +144,7 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": true,
                   "textFadeMultiplier": 3,
                   "nodeSizeMultiplier": 1,
@@ -192,7 +175,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           }
@@ -209,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GT/c/info.md"
+                "file": "math/info+someQNA.md"
               }
             }
           }
@@ -217,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 274.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,17 +220,17 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "fe967de6319ca1a4",
+  "active": "6446c144be593e64",
   "lastOpenFiles": [
-    "GT/c/qna.md",
-    "GT/c/info.md",
-    "GT/c/Q&N.md",
+    "math/formath.canvas",
+    "math/info+someQNA.md",
     "to gk.md",
-    "release.md",
-    "screenshots.md",
-    "Q&A.md",
-    "DS/ds recap+qna.md",
-    "Heaps chapter12/photos_heap/Pasted image 20221208110106.png",
-    "Heaps chapter12/Quick Guide.md"
+    "math/Pasted image 20230107103302.png",
+    "Excalidraw/newForMath.md",
+    "GT/c/info.md",
+    "GT/c/qna.md",
+    "math/Untitled.md",
+    "GT/c/Q&N.md",
+    "release.md"
   ]
 }
